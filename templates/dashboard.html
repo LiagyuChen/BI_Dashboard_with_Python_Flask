@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supermarket Sales Dashboard</title>
+    <script src="{{ url_for('static', filename='echarts.min.js') }}" charset="utf-8"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='dashboard.css') }}">
+</head>
+
+<body>
+    <!--header-->
+    <div class="header">
+        <div class="headerTitle">Supermarket Sales Dashboard</div>
+        <div class="Indicators">
+            <div class="indicatorContent">Total Cost: <span id="totalCost"></span></div>
+            <div class="indicatorContent">Total Income: <span id="totalIncome"></span></div>
+            <div class="indicatorContent">Total Sales: <span id="totalSales"></span></div>
+        </div>
+    </div>
+
+    <!--charts-->
+    <div class="charts">
+        <!-- First Row Charts -->
+        <div class="FirstChartContainer">
+            <!-- Left -->
+            <div class="PieCharts">
+                <div class="c1c">
+                    <div class="chartTiles">Branches</div>
+                    <div class="chart" id="c1">23456789</div>
+                </div>
+                <div class="c2c">
+                    <div class="chartTiles">Cties</div>
+                    <div class="chart" id="c2"></div>
+                </div>
+                <div class="c3c">
+                    <div class="chartTiles">Customer Types</div>
+                    <div class="chart" id="c3"></div>
+                </div>
+                <div class="c4c">
+                    <div class="chartTiles">Genders</div>
+                    <div class="chart" id="c4"></div>
+                </div>
+                <div class="c5c">
+                    <div class="chartTiles">Product Types</div>
+                    <div class="chart" id="c5"></div>
+                </div>
+                <div class="c6c">
+                    <div class="chartTiles">Payments</div>
+                    <div class="chart" id="c6"></div>
+                </div>
+            </div>
+            <!-- Right -->
+            <div class="BarCharts">
+                <div class="c7c">
+                    <div class="chartTiles">Customer Average Cost</div>
+                    <div class="chart" id="c7"></div>
+                </div>
+                <div class="c8c">
+                    <div class="chartTiles">Monthly Gross-Income</div>
+                    <div class="chart" id="c8"></div>
+                </div>
+                <div class="c9c">
+                    <div class="chartTiles">Ratings for Product Types</div>
+                    <div class="chart" id="c9"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Second Row Charts -->
+        <div class="SecondChartContainer">
+            <!-- Left -->
+            <div class="CalendarCharts">
+                <div class="c12c">
+                    <div class="chartTiles">Day-Hour Purchase Frequency</div>
+                    <div class="chart" id="c12"></div>
+                </div>
+            </div>
+            <!-- Right -->
+            <div class="OtherCharts">
+                <div class="c10c">
+                    <div class="chartTiles">Purchase Quantity for Customer Types</div>
+                    <div class="chart" id="c10"></div>
+                </div>
+                <div class="c11c">
+                    <div class="chartTiles">Purchases by Genders & Price Levels</div>
+                    <div class="chart" id="c11"></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Draw charts using E-Charts -->
+    <script type="text/javascript">
+        var branchNames, branchValues, cityNames, cityValues, custTypeNames, custTypeValues, genderNames, genderValues, typeNames, typeValues, 
+        paymentNames, paymentValues, avgNormalCost, avgMemberCost, monthIncomeName, monthIncomeValue, typeRatingLevelTypes, typeRatingLevelRatings,
+        typeRatingLevelValues, purchaseQuantityCustTypes, purchaseQuantityQuantities, purchaseQuantityValues, genderPriceGenders, 
+        genderPriceLevels, genderPriceValues, dayHourDayNames, dayHourHourNames, dayHourFrequency
+
+        fetch('/getData')
+            .then(response => response.json())
+            .then(data => {
+                console.log(data)
+
+                document.getElementById('totalCost').textContent = data.totalCost
+                document.getElementById('totalIncome').textContent = data.totalIncome
+                document.getElementById('totalSales').textContent = data.totalQuantity
+
+                // Assign backend data to local variables
+                branchNames = data.branchNames
+                branchValues = data.branchValues
+                cityNames = data.cityNames
+                cityValues = data.cityValues
+                custTypeNames = data.custTypeNames
+                custTypeValues = data.custTypeValues
+                genderNames = data.genderNames
+                genderValues = data.genderValues
+                typeNames = data.typeNames
+                typeValues = data.typeValues
+                paymentNames = data.paymentNames 
+                paymentValues = data.paymentValues
+                avgNormalCost = data.avgNormalCost 
+                avgMemberCost = data.avgMemberCost
+                monthIncomeName = data.monthIncomeName 
+                monthIncomeValue = data.monthIncomeValue
+                typeRatingLevelTypes = data.typeRatingLevelTypes 
+                typeRatingLevelRatings = data.typeRatingLevelRatings
+                typeRatingLevelValues = data.typeRatingLevelValues 
+                purchaseQuantityCustTypes = data.purchaseQuantityCustTypes
+                purchaseQuantityQuantities = data.purchaseQuantityQuantities
+                purchaseQuantityValues = data.purchaseQuantityValues
+                genderPriceGenders = data.genderPriceGenders
+                genderPriceLevels = data.genderPriceLevels
+                genderPriceValues = data.genderPriceValues
+                dayHourDayNames = data.dayHourDayNames
+                dayHourHourNames = data.dayHourHourNames
+                dayHourFrequency = data.dayHourFrequency
+            })
+            .then(e => {
+                // Draw Charts
+                echarts.init(document.getElementById('c1')).setOption(DrawPieCharts(branchNames, branchValues, 'Branch Name'))
+                echarts.init(document.getElementById('c2')).setOption(DrawPieCharts(cityNames, cityValues, 'City Name'))
+                echarts.init(document.getElementById('c3')).setOption(DrawPieCharts(custTypeNames, custTypeValues, 'Customer Type'))
+                echarts.init(document.getElementById('c4')).setOption(DrawPieCharts(genderNames, genderValues, 'Gender'))
+                echarts.init(document.getElementById('c5')).setOption(DrawPieCharts(typeNames, typeValues, 'Product Type'))
+                echarts.init(document.getElementById('c6')).setOption(DrawPieCharts(paymentNames, paymentValues, 'Payment Type'))
+
+                echarts.init(document.getElementById('c7')).setOption(DrawBarCharts(['Normal', 'Member'], [avgNormalCost, avgMemberCost]))
+                echarts.init(document.getElementById('c8')).setOption(DrawBarCharts(monthIncomeName, monthIncomeValue))
+
+                echarts.init(document.getElementById('c9')).setOption(DrawStackBarChartsVertical(typeRatingLevelTypes, typeRatingLevelRatings, typeRatingLevelValues))
+
+                echarts.init(document.getElementById('c10')).setOption(DrawStackBarCharts(purchaseQuantityCustTypes, purchaseQuantityQuantities, purchaseQuantityValues))
+
+                echarts.init(document.getElementById('c11')).setOption(DrawLineCharts(genderPriceGenders, genderPriceLevels, genderPriceValues))
+
+                echarts.init(document.getElementById('c12')).setOption(DrawCalendarCharts(dayHourDayNames, dayHourHourNames, dayHourFrequency))
+            })
+        
+        function DrawPieCharts(names, values, labelName) {
+            const chartData = names.map((name, index) => {
+                return {
+                    name: name,
+                    value: values[index]
+                }
+            })
+            option = {
+                tooltip: {
+                    trigger: 'item',
+                    axisPointer: {
+                      type: 'shadow'
+                    }
+                },
+                series: [
+                  {
+                    name: labelName,
+                    type: 'pie',
+                    radius: ['50%', '70%'],
+                    color: ['#00ffff', '#54ff9f', '#88fbf9', '#dbff52', '#38ff54', '#c466ff'],
+                    avoidLabelOverlap: false,
+                    itemStyle: {
+                      borderRadius: 8,
+                      borderColor: '#fff',
+                      borderWidth: 2,
+                    },
+                    label: {
+                      show: false,
+                      position: 'center'
+                    },
+                    emphasis: {
+                      label: {
+                        show: true,
+                        fontSize: 20,
+                        fontWeight: 'bold',
+                        color: "#00ffff"
+                      }
+                    },
+                    data: chartData
+                  }
+                ]
+            }
+            return option
+        }
+
+        function DrawBarCharts(names, values) {
+            option = {
+                tooltip: {
+                    trigger: 'axis',
+                    axisPointer: {
+                      type: 'shadow'
+                    }
+                },
+                xAxis: {
+                    data: names,
+                    axisLabel: {
+                        inside: true,
+                        color: '#ffffff'
+                    },
+                    axisTick: {
+                        show: false
+                    },
+                    axisLine: {
+                        show: false
+                    },
+                    z: 10
+                },
+                yAxis: {
+                    axisLine: {
+                        show: false
+                    },
+                    axisTick: {
+                        show: false
+                    },
+                    axisLabel: {
+                        color: '#ffffff'
+                    }
+                },
+                series: [
+                    {
+                        type: 'bar',
+                        showBackground: true,
+                        itemStyle: {
+                            color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                                { offset: 0, color: '#bbffff' },
+                                { offset: 0.5, color: '#00ffff' },
+                                { offset: 1, color: '#0569ff' }
+                            ])
+                        },
+                        emphasis: {
+                            itemStyle: {
+                            color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                                { offset: 0, color: '#bbffff' },
+                                { offset: 0.7, color: '#00ffff' },
+                                { offset: 1, color: '#0569ff' }
+                            ])
+                            }
+                        },
+                        data: values
+                    }
+                ]
+            }
+            return option
+        }
+
+        function DrawStackBarChartsVertical(name1s, name2s, values) {
+            // Get the unique values and their indexes
+            let uniqueTypes = [...new Set(name1s)]
+            let uniqueTypesIndexes = uniqueTypes.map(value => {
+                return name1s.reduce((acc, curr, index) => {
+                    if (curr === value) acc.push(index)
+                    return acc
+                }, [])
+            })
+            let uniqueCates = [...new Set(name2s)]
+            let uniqueCatesIndexes = uniqueCates.map(value => {
+                return name2s.reduce((acc, curr, index) => {
+                    if (curr === value) acc.push(index)
+                    return acc
+                }, [])
+            })
+            // Get the Numbers from unique values and their indexes
+            var valueList = []
+            for (var i = 0; i < uniqueCates.length; i++) {
+                var templist = []
+                for (var j = 0; j < uniqueTypes.length; j++) {
+                    var tempTypeIdxs = uniqueCatesIndexes[i], tempCateIdxs = uniqueTypesIndexes[j]
+                    var commonValue = values[tempTypeIdxs.filter(value => tempCateIdxs.includes(value))[0]]
+                    templist.push(commonValue)
+                }
+                valueList.push(templist)
+            }
+            // Form the series data for each unique types
+            const colors = ["#9cf5fc", "#42ffdc", "#00ffff", "#0ac6ff", "#3db5ff", "#3892fa", "#5c87ff"]
+            const seriesData = uniqueCates.map((nameName, index) => {
+                return {
+                    name: nameName,
+                    type: 'bar',
+                    stack: 'total',
+                    label: {
+                      show: true
+                    },
+                    emphasis: {
+                      focus: 'series'
+                    },
+                    color: colors[index],
+                    data: valueList[index]
+                }
+            })
+            // form the chart options
+            option = {
+                tooltip: {
+                  trigger: 'axis',
+                  axisPointer: {
+                    type: 'shadow'
+                  }
+                },
+                legend: {
+                    textStyle: {
+                        color: "#00ffff",
+                        fontSize: 12
+                    }
+                },
+                grid: {
+                  left: '3%',
+                  right: '4%',
+                  bottom: '3%',
+                  containLabel: true
+                },
+                xAxis: {
+                    type: 'category',
+                    data: uniqueTypes,
+                    axisLabel: {
+                        color: '#ffffff'
+                    }  
+                },
+                yAxis: {
+                    type: 'value',
+                    axisLabel: {
+                        color: '#ffffff'
+                    }
+                },
+                series: seriesData
+              }
+            return option
+        }
+
+        function DrawStackBarCharts(name1s, name2s, values) {
+            // Get the unique values and their indexes
+            let uniqueTypes = [...new Set(name1s)]
+            let uniqueTypesIndexes = uniqueTypes.map(value => {
+                return name1s.reduce((acc, curr, index) => {
+                    if (curr === value) acc.push(index)
+                    return acc
+                }, [])
+            })
+            let uniqueCates = [...new Set(name2s)]
+            let uniqueCatesIndexes = uniqueCates.map(value => {
+                return name2s.reduce((acc, curr, index) => {
+                    if (curr === value) acc.push(index)
+                    return acc
+                }, [])
+            })
+            // Get the Numbers from unique values and their indexes
+            var valueList = []
+            for (var i = 0; i < uniqueTypes.length; i++) {
+                var templist = []
+                for (var j = 0; j < uniqueCates.length; j++) {
+                    var tempTypeIdxs = uniqueTypesIndexes[i], tempCateIdxs = uniqueCatesIndexes[j]
+                    var commonValue = values[tempTypeIdxs.filter(value => tempCateIdxs.includes(value))[0]]
+                    templist.push(commonValue)
+                }
+                valueList.push(templist)
+            }
+            // Form the series data for each unique types
+            const colors = ['#00ffff', '#90ee90']
+            const seriesData = uniqueTypes.map((nameName, index) => {
+                return {
+                    name: nameName,
+                    type: 'bar',
+                    stack: 'total',
+                    label: {
+                      show: true
+                    },
+                    emphasis: {
+                      focus: 'series'
+                    },
+                    color: colors[index],
+                    data: valueList[index]
+                }
+            })
+            // form the chart options
+            option = {
+                tooltip: {
+                  trigger: 'axis',
+                  axisPointer: {
+                    type: 'shadow'
+                  }
+                },
+                legend: {
+                    textStyle: {
+                        color: "#00ffff",
+                        fontSize: 12
+                    }
+                },
+                grid: {
+                  left: '3%',
+                  right: '4%',
+                  bottom: '3%',
+                  containLabel: true
+                },
+                xAxis: {
+                  type: 'value',
+                  axisLabel: {
+                    color: '#ffffff'
+                  }
+                },
+                yAxis: {
+                  type: 'category',
+                  data: uniqueCates,
+                  axisLabel: {
+                    color: '#ffffff'
+                  }
+                },
+                series: seriesData
+              }
+            return option
+        }
+
+        function DrawLineCharts(name1s, name2s, values) {
+            // Get the unique values and their indexes
+            let uniqueGenders = [...new Set(name1s)]
+            let uniqueGendersIndexes = uniqueGenders.map(value => {
+                return name1s.reduce((acc, curr, index) => {
+                    if (curr === value) acc.push(index)
+                    return acc
+                }, [])
+            })
+            let uniquePriceLevels = [...new Set(name2s)]
+            let uniquePriceLevelsIndexes = uniquePriceLevels.map(value => {
+                return name2s.reduce((acc, curr, index) => {
+                    if (curr === value) acc.push(index)
+                    return acc
+                }, [])
+            })
+            // Get the Numbers from unique values and their indexes
+            var valueList = []
+            for (var i = 0; i < uniqueGenders.length; i++) {
+                var templist = []
+                for (var j = 0; j < uniquePriceLevels.length; j++) {
+                    var tempGenderIdxs = uniqueGendersIndexes[i], tempPriceIdxs = uniquePriceLevelsIndexes[j]
+                    var commonValue = values[tempGenderIdxs.filter(value => tempPriceIdxs.includes(value))[0]]
+                    templist.push(commonValue)
+                }
+                valueList.push(templist)
+            }
+            // Form the series data for each unique types
+            const colors = ['#00ffff', '#90ee90']
+            const seriesData = uniqueGenders.map((nameName, index) => {
+                return {
+                    name: nameName,
+                    type: 'line',
+                    stack: 'Total',
+                    color: colors[index],
+                    lineStyle: {width: 5},
+                    data: valueList[index]
+                }
+            })
+            // form the chart options
+            option = {
+                tooltip: {
+                    trigger: 'axis'
+                },
+                legend: {
+                    data: uniqueGenders,
+                    textStyle: {
+                        color: "#00ffff",
+                        fontSize: 12
+                    }
+                },
+                grid: {
+                    left: '3%',
+                    right: '4%',
+                    bottom: '3%',
+                    containLabel: true
+                },
+                toolbox: {
+                    feature: {
+                        saveAsImage: {}
+                    }
+                },
+                xAxis: {
+                    type: 'category',
+                    boundaryGap: false,
+                    data: uniquePriceLevels,
+                    axisLabel: {
+                        color: '#ffffff'
+                    }
+                },
+                yAxis: {
+                    type: 'value',
+                    axisLabel: {
+                        color: '#ffffff'
+                    }
+                },
+                series: seriesData
+              }
+              return option
+        }
+
+        function DrawCalendarCharts(days, hours, values) {
+            // Form the scatter data
+            var scData = []
+            for (var i = 0; i < days.length; i++) {
+                for (var j = 0; j < hours.length; j++) {
+                    scData.push([i, j, values[j + i * 24]])
+                }
+            }
+            // Form the series data based on each days
+            var title = [], singleAxis = [], series = []
+            const colors = ['#dbff52', '#7cff38', '#38ff54', '#38ffd4', '#33edff', '#5cb1ff', '#c466ff']
+            days.forEach(function (day, idx) {
+                title.push({
+                    textBaseline: 'middle',
+                    top: ((idx + 0.3) * 100) / 7 + '%',
+                    text: day,
+                    textStyle: {
+                        color: '#00ffff',
+                        fontSize: 13
+                    }
+                })
+                singleAxis.push({
+                    left: '15%',
+                    type: 'category',
+                    boundaryGap: false,
+                    data: hours,
+                    top: (idx * 100) / 7 + '%',
+                    height: 100 / 7 - 10 + '%',
+                    axisLabel: {
+                        interval: 2,
+                        color: '#ffffff',
+                    }
+                })
+                series.push({
+                    singleAxisIndex: idx,
+                    coordinateSystem: 'singleAxis',
+                    type: 'scatter',
+                    data: [],
+                    color: colors[idx],
+                    symbolSize: function (dataItem) {
+                        return dataItem[1] * 0.9
+                    }
+                })
+            })
+            scData.forEach(function (dataItem) {
+                series[dataItem[0]].data.push([dataItem[1], dataItem[2]])
+            })
+            // Form the chart options
+            option = {
+                tooltip: {
+                    position: 'top'
+                },
+                title: title,
+                singleAxis: singleAxis,
+                series: series
+            }
+            return option
+        }
+    </script>
+
+</body>
+</html>

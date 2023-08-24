@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supermarket Sales Dashboard</title>
+    <script src="../js/echarts.min.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="../css/dashboard.css">
+</head>
+
+<body>
+    <!--header-->
+    <div class="header">
+        <div class="headerTitle">Supermarket Sales Dashboard</div>
+        <div class="Indicators">
+            <div class="indicatorContent">Total Cost: <span id="totalCost"></span></div>
+            <div class="indicatorContent">Total Income: <span id="totalIncome"></span></div>
+            <div class="indicatorContent">Total Sales: <span id="totalSales"></span></div>
+        </div>
+    </div>
+
+    <!--charts-->
+    <div class="charts">
+        <!-- First Row Charts -->
+        <div class="FirstChartContainer">
+            <!-- Left -->
+            <div class="PieCharts">
+                <div class="c1c">
+                    <div class="chartTiles">Branches</div>
+                    <div class="chart1" id="c1"></div>
+                </div>
+                <div class="c2c">
+                    <div class="chartTiles">Cties</div>
+                    <div class="chart" id="c2"></div>
+                </div>
+                <div class="c3c">
+                    <div class="chartTiles">Customer Types</div>
+                    <div class="chart" id="c3"></div>
+                </div>
+                <div class="c4c">
+                    <div class="chartTiles">Genders</div>
+                    <div class="chart" id="c4"></div>
+                </div>
+                <div class="c5c">
+                    <div class="chartTiles">Product Types</div>
+                    <div class="chart" id="c5"></div>
+                </div>
+                <div class="c6c">
+                    <div class="chartTiles">Payments</div>
+                    <div class="chart" id="c6"></div>
+                </div>
+            </div>
+            <!-- Right -->
+            <div class="BarCharts">
+                <div class="c7c">
+                    <div class="chartTiles">Customer Average Cost</div>
+                    <div class="chart" id="c7"></div>
+                </div>
+                <div class="c8c">
+                    <div class="chartTiles">Monthly Gross-Income</div>
+                    <div class="chart" id="c8"></div>
+                </div>
+                <div class="c9c">
+                    <div class="chartTiles">Ratings for Product Types</div>
+                    <div class="chart" id="c9"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Second Row Charts -->
+        <div class="SecondChartContainer">
+            <!-- Left -->
+            <div class="CalendarCharts">
+                <div class="c12c">
+                    <div class="chartTiles">Day-Hour Purchase Frequency</div>
+                    <div class="chart" id="c12"></div>
+                </div>
+            </div>
+            <!-- Right -->
+            <div class="OtherCharts">
+                <div class="c10c">
+                    <div class="chartTiles">Purchase Quantity for Customer Types</div>
+                    <div class="chart" id="c10"></div>
+                </div>
+                <div class="c11c">
+                    <div class="chartTiles">Purchases by Genders & Price Levels</div>
+                    <div class="chart" id="c11"></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Draw charts using E-Charts -->
+    <script type="text/javascript">
+      const branchNames = ["A", "B", "C"]
+      const branchValues = [340, 332, 328]
+      var myChart = echarts.init(document.getElementById('c1'))
+      const chartData = branchNames.map((name, index) => {
+          return {
+              name: name,
+              value: branchValues[index]
+          }
+      })
+      console.log("chartData: ", chartData)
+      option = {
+          legend: {
+            top: '2%',
+            left: 'center',
+            textStyle: {
+              color: "#01b5b6"
+            }
+          },
+          series: [
+            {
+              name: 'Branch Name',
+              type: 'pie',
+              radius: ['50%', '70%'],
+              color: ['#9be3bf', '#01b5b6', '#002c80'],
+              avoidLabelOverlap: false,
+              itemStyle: {
+                borderRadius: 8,
+                borderColor: '#fff',
+                borderWidth: 2,
+              },
+              label: {
+                show: false,
+                position: 'center'
+              },
+              emphasis: {
+                label: {
+                  show: true,
+                  fontSize: 20,
+                  fontWeight: 'bold',
+                  color: "#01b5b6"
+                }
+              },
+              
+              data: chartData
+            }
+          ]
+      }
+      option && myChart.setOption(option)
+
+      console.log(myChart)
+
+        
+      function DrawCharts1(names, values) {
+          const chartData = names.map((name, index) => {
+              return {
+                  name: name,
+                  value: values[index]
+              }
+          })
+          option = {
+              tooltip: {
+                trigger: 'item'
+              },
+              legend: {
+                top: '5%',
+                left: 'center'
+              },
+              series: [
+                {
+                  name: 'Branch Name',
+                  type: 'pie',
+                  radius: ['50%', '70%'],
+                  avoidLabelOverlap: false,
+                  itemStyle: {
+                    borderRadius: 10,
+                    borderColor: '#fff',
+                    borderWidth: 2,
+                    color: '#01b5b6',
+                    shadowBlur: 200,
+                    shadowColor: 'rgba(0, 0, 0, 0.5)'
+                  },
+                  label: {
+                    show: false,
+                    position: 'center'
+                  },
+                  emphasis: {
+                    label: {
+                      show: true,
+                      fontSize: 20,
+                      fontWeight: 'bold'
+                    }
+                  },
+                  labelLine: {
+                    show: false
+                  },
+                  data: chartData
+                }
+              ]
+          }
+          // option && myChart.setOption(option)
+          return option
+      }
+    </script>
+
+    
+</body>
+</html>

@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Microsoft YaHei;
+}
+body, html {
+    width: 100%;
+    height: 100%;
+    background-color: #262626;
+}
+
+/* Header Section */
+.header{
+    width: 100%;
+    height: 15%;
+}
+.headerTitle{
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    font-size: 3em;
+    color: #ff770f;
+    border-bottom: 5px solid #ff770f;
+}
+.Indicators {
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+.indicatorContent {
+    width: 30%;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 2.2em;
+    font-style: italic;
+    color: #ff770f;
+    padding-top: 0.5%;
+}
+
+/* Chart Section */
+.charts {
+    width: 99%;
+    height: 84%;
+    margin-left: 0.5%;
+    margin-top: 5px;
+}
+.chartTiles{
+    color: #00ffff;
+    text-align: center;
+    font-size: 20px;
+}
+.chart {
+    width: 90%;
+    height: 90%;
+    margin-left: 5%;
+}
+/* First Row Charts */
+.FirstChartContainer {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-wrap: wrap; 
+}
+.PieCharts {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+}
+.c1c, .c2c, .c3c, .c4c, .c5c, .c6c {
+    flex-basis: calc(33.33% - 3px); 
+    height: 50%;
+    margin: 1px;
+    box-sizing: border-box; 
+    border: 1px solid #ff770f;
+}
+.BarCharts {
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+}
+.c7c, .c8c {
+    flex-basis: calc(30% - 3px); 
+    margin: 1px;
+    box-sizing: border-box; 
+    border: 1px solid #ff770f;
+}
+.c9c {
+    flex-basis: calc(40% - 3px); 
+    margin: 1px;
+    box-sizing: border-box; 
+    border: 1px solid #ff770f;
+}
+/* Second Row Charts */
+.SecondChartContainer {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-wrap: wrap; 
+}
+.CalendarCharts {
+    width: 40%;
+    height: 100%;
+}
+.c12c {
+    width: 100%;
+    height: 100%;
+    margin: 1px;
+    border: 1px solid #ff770f;
+}
+.OtherCharts {
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+}
+.c10c, .c11c {
+    flex-basis: calc(50% - 3px); 
+    margin: 1px;
+    box-sizing: border-box; 
+    border: 1px solid #ff770f;
+}
+

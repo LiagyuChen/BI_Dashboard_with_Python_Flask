@@ -1,0 +1,1001 @@
+,branch,city,cust_type,gender,type,unit_price,quantity,date,time,payment,cost,gross_income,rating,month,day,day_of_week,hour
+831,A,Cairo,Normal,Male,Sports and travel,72.61,6,2019-01-01,10:39:00,Credit card,435.66,21.783,6.9,1,1,1,10
+804,B,Ismailia,Member,Female,Food and beverages,84.63,10,2019-01-01,11:36:00,Credit card,846.3,42.315,9.0,1,1,1,11
+204,C,Alexandria,Member,Female,Sports and travel,29.22,6,2019-01-01,11:40:00,eWallet,175.32,8.766,5.0,1,1,1,11
+31,C,Alexandria,Normal,Male,Health and beauty,62.87,2,2019-01-01,11:43:00,Cash,125.74,6.287,5.0,1,1,1,11
+686,A,Cairo,Normal,Female,Fashion accessories,65.74,9,2019-01-01,13:55:00,Cash,591.66,29.583,7.7,1,1,1,13
+392,A,Cairo,Member,Female,Electronic accessories,74.22,10,2019-01-01,14:42:00,Credit card,742.2,37.11,4.3,1,1,1,14
+518,A,Cairo,Member,Male,Home and lifestyle,47.59,8,2019-01-01,14:47:00,Cash,380.72,19.036,5.7,1,1,1,14
+555,C,Alexandria,Normal,Female,Electronic accessories,63.22,2,2019-01-01,15:51:00,Cash,126.44,6.322,8.5,1,1,1,15
+992,B,Ismailia,Normal,Female,Electronic accessories,74.71,6,2019-01-01,19:07:00,Cash,448.26,22.413,6.7,1,1,1,19
+836,B,Ismailia,Normal,Male,Food and beverages,21.12,8,2019-01-01,19:31:00,Cash,168.96,8.448,6.3,1,1,1,19
+484,C,Alexandria,Member,Female,Sports and travel,36.98,10,2019-01-01,19:48:00,Credit card,369.8,18.49,7.0,1,1,1,19
+87,A,Cairo,Member,Female,Sports and travel,27.04,4,2019-01-01,20:26:00,eWallet,108.16,5.408,6.9,1,1,1,20
+175,B,Ismailia,Normal,Female,Health and beauty,34.21,10,2019-01-02,13:00:00,Cash,342.1,17.105,5.1,1,2,2,13
+113,B,Ismailia,Member,Male,Fashion accessories,40.61,9,2019-01-02,13:40:00,Cash,365.49,18.2745,7.0,1,2,2,13
+749,A,Cairo,Member,Male,Food and beverages,41.66,6,2019-01-02,15:24:00,eWallet,249.96,12.498,5.6,1,2,2,15
+304,C,Alexandria,Member,Female,Sports and travel,31.67,8,2019-01-02,16:19:00,Credit card,253.36,12.668,5.6,1,2,2,16
+494,A,Cairo,Normal,Male,Sports and travel,42.47,1,2019-01-02,16:57:00,Cash,42.47,2.1235,5.7,1,2,2,16
+431,C,Alexandria,Normal,Male,Fashion accessories,99.82,2,2019-01-02,18:09:00,Credit card,199.64,9.982,6.7,1,2,2,18
+799,B,Ismailia,Normal,Male,Electronic accessories,22.01,6,2019-01-02,18:50:00,Cash,132.06,6.603,7.6,1,2,2,18
+708,B,Ismailia,Normal,Male,Sports and travel,44.63,6,2019-01-02,20:08:00,Credit card,267.78,13.389,5.1,1,2,2,20
+302,C,Alexandria,Member,Male,Health and beauty,75.88,1,2019-01-03,10:30:00,Credit card,75.88,3.794,7.1,1,3,3,10
+179,A,Cairo,Normal,Male,Health and beauty,70.01,5,2019-01-03,11:36:00,eWallet,350.05,17.5025,5.5,1,3,3,11
+811,A,Cairo,Normal,Female,Health and beauty,23.03,9,2019-01-03,12:02:00,eWallet,207.27,10.3635,7.9,1,3,3,12
+973,B,Ismailia,Normal,Male,Sports and travel,93.38,1,2019-01-03,13:07:00,Cash,93.38,4.669,9.6,1,3,3,13
+400,A,Cairo,Normal,Female,Home and lifestyle,67.09,5,2019-01-03,16:47:00,Credit card,335.45,16.7725,9.1,1,3,3,16
+548,B,Ismailia,Member,Male,Health and beauty,62.0,8,2019-01-03,19:08:00,Credit card,496.0,24.8,6.2,1,3,3,19
+720,C,Alexandria,Member,Female,Health and beauty,21.12,2,2019-01-03,19:17:00,Cash,42.24,2.112,9.7,1,3,3,19
+490,B,Ismailia,Normal,Female,Home and lifestyle,63.15,6,2019-01-03,20:24:00,eWallet,378.9,18.945,9.8,1,3,3,20
+29,A,Cairo,Member,Male,Health and beauty,20.97,5,2019-01-04,13:21:00,Cash,104.85,5.2425,7.8,1,4,4,13
+692,B,Ismailia,Normal,Male,Sports and travel,46.42,3,2019-01-04,13:24:00,Credit card,139.26,6.963,4.4,1,4,4,13
+779,A,Cairo,Member,Female,Home and lifestyle,35.54,10,2019-01-04,13:34:00,eWallet,355.4,17.77,7.0,1,4,4,13
+710,C,Alexandria,Member,Female,Electronic accessories,66.65,9,2019-01-04,18:19:00,Credit card,599.85,29.9925,9.7,1,4,4,18
+760,B,Ismailia,Member,Female,Fashion accessories,68.71,4,2019-01-04,19:01:00,Cash,274.84,13.742,4.1,1,4,4,19
+219,B,Ismailia,Member,Male,Electronic accessories,72.17,1,2019-01-04,19:40:00,Cash,72.17,3.6085,6.1,1,4,4,19
+132,A,Cairo,Member,Male,Home and lifestyle,62.65,4,2019-01-05,11:25:00,Cash,250.6,12.53,4.2,1,5,5,11
+293,B,Ismailia,Member,Female,Fashion accessories,73.96,1,2019-01-05,11:32:00,Credit card,73.96,3.698,5.0,1,5,5,11
+480,A,Cairo,Normal,Female,Electronic accessories,93.88,7,2019-01-05,11:51:00,Credit card,657.16,32.858,7.3,1,5,5,11
+579,C,Alexandria,Member,Female,Fashion accessories,31.9,1,2019-01-05,12:40:00,eWallet,31.9,1.595,9.1,1,5,5,12
+814,A,Cairo,Member,Female,Health and beauty,74.69,7,2019-01-05,13:08:00,eWallet,522.83,26.1415,9.1,1,5,5,13
+46,A,Cairo,Member,Male,Home and lifestyle,70.74,4,2019-01-05,16:05:00,Credit card,282.96,14.148,4.4,1,5,5,16
+120,A,Cairo,Normal,Female,Home and lifestyle,42.91,5,2019-01-05,17:29:00,eWallet,214.55,10.7275,6.1,1,5,5,17
+412,C,Alexandria,Normal,Female,Health and beauty,78.89,7,2019-01-05,19:48:00,eWallet,552.23,27.6115,7.5,1,5,5,19
+924,B,Ismailia,Member,Female,Home and lifestyle,35.38,9,2019-01-05,19:50:00,Credit card,318.42,15.921,9.6,1,5,5,19
+871,C,Alexandria,Normal,Female,Fashion accessories,76.06,3,2019-01-05,20:30:00,Credit card,228.18,11.409,9.8,1,5,5,20
+920,B,Ismailia,Normal,Female,Food and beverages,71.2,1,2019-01-05,20:40:00,Credit card,71.2,3.56,9.2,1,5,5,20
+648,C,Alexandria,Normal,Male,Fashion accessories,27.38,6,2019-01-05,20:54:00,Credit card,164.28,8.214,7.9,1,5,5,20
+481,A,Cairo,Normal,Female,Sports and travel,15.34,1,2019-01-06,11:09:00,Cash,15.34,0.767,6.5,1,6,6,11
+773,B,Ismailia,Member,Male,Health and beauty,80.47,9,2019-01-06,11:18:00,Cash,724.23,36.2115,9.2,1,6,6,11
+741,A,Cairo,Member,Male,Home and lifestyle,58.9,8,2019-01-06,11:23:00,Cash,471.2,23.56,8.9,1,6,6,11
+928,A,Cairo,Normal,Female,Fashion accessories,42.57,7,2019-01-06,11:51:00,Cash,297.99,14.8995,6.8,1,6,6,11
+909,C,Alexandria,Normal,Female,Fashion accessories,81.68,4,2019-01-06,12:12:00,Cash,326.72,16.336,9.1,1,6,6,12
+364,C,Alexandria,Normal,Male,Food and beverages,89.48,10,2019-01-06,12:46:00,Credit card,894.8,44.74,9.6,1,6,6,12
+940,A,Cairo,Normal,Male,Sports and travel,64.59,4,2019-01-06,13:35:00,eWallet,258.36,12.918,9.3,1,6,6,13
+699,A,Cairo,Normal,Female,Food and beverages,40.94,5,2019-01-06,13:58:00,eWallet,204.7,10.235,9.9,1,6,6,13
+896,B,Ismailia,Normal,Male,Home and lifestyle,62.19,4,2019-01-06,19:46:00,eWallet,248.76,12.438,4.3,1,6,6,19
+22,A,Cairo,Member,Female,Home and lifestyle,21.54,9,2019-01-07,11:44:00,Credit card,193.86,9.693,8.8,1,7,0,11
+531,A,Cairo,Normal,Male,Sports and travel,60.95,9,2019-01-07,12:08:00,Credit card,548.55,27.4275,6.0,1,7,0,12
+991,B,Ismailia,Member,Female,Food and beverages,89.14,4,2019-01-07,12:20:00,Credit card,356.56,17.828,7.8,1,7,0,12
+151,C,Alexandria,Member,Female,Sports and travel,68.12,1,2019-01-07,12:28:00,eWallet,68.12,3.406,6.8,1,7,0,12
+362,C,Alexandria,Normal,Male,Food and beverages,27.22,3,2019-01-07,12:37:00,Cash,81.66,4.083,7.3,1,7,0,12
+7,B,Ismailia,Member,Female,Fashion accessories,97.61,6,2019-01-07,15:01:00,eWallet,585.66,29.283,9.9,1,7,0,15
+869,A,Cairo,Member,Male,Electronic accessories,77.72,4,2019-01-07,16:11:00,Credit card,310.88,15.544,8.8,1,7,0,16
+513,C,Alexandria,Member,Female,Home and lifestyle,21.82,10,2019-01-07,17:36:00,Cash,218.2,10.91,7.1,1,7,0,17
+570,B,Ismailia,Normal,Male,Fashion accessories,47.97,7,2019-01-07,20:52:00,Cash,335.79,16.7895,6.2,1,7,0,20
+425,C,Alexandria,Member,Male,Home and lifestyle,55.57,3,2019-01-08,11:42:00,Credit card,166.71,8.3355,5.9,1,8,1,11
+835,B,Ismailia,Member,Female,Sports and travel,64.83,2,2019-01-08,11:59:00,Credit card,129.66,6.483,8.0,1,8,1,11
+357,B,Ismailia,Member,Female,Sports and travel,48.5,3,2019-01-08,12:50:00,Cash,145.5,7.275,6.7,1,8,1,12
+170,B,Ismailia,Member,Female,Home and lifestyle,49.1,2,2019-01-08,12:58:00,Credit card,98.2,4.91,6.4,1,8,1,12
+711,A,Cairo,Normal,Male,Sports and travel,37.14,5,2019-01-08,13:05:00,eWallet,185.7,9.285,5.0,1,8,1,13
+813,C,Alexandria,Normal,Female,Home and lifestyle,45.38,4,2019-01-08,13:48:00,Credit card,181.52,9.076,8.7,1,8,1,13
+108,C,Alexandria,Normal,Male,Fashion accessories,12.78,1,2019-01-08,14:11:00,eWallet,12.78,0.639,9.5,1,8,1,14
+482,B,Ismailia,Member,Female,Food and beverages,33.21,10,2019-01-08,14:25:00,eWallet,332.1,16.605,6.0,1,8,1,14
+20,A,Cairo,Member,Female,Electronic accessories,79.59,3,2019-01-08,14:30:00,Cash,238.77,11.9385,6.6,1,8,1,14
+700,C,Alexandria,Member,Female,Food and beverages,68.54,8,2019-01-08,15:57:00,eWallet,548.32,27.416,8.5,1,8,1,15
+98,C,Alexandria,Normal,Female,Fashion accessories,31.73,9,2019-01-08,16:17:00,Credit card,285.57,14.2785,5.9,1,8,1,16
+187,A,Cairo,Normal,Female,Electronic accessories,50.23,4,2019-01-08,17:12:00,Cash,200.92,10.046,9.0,1,8,1,17
+919,A,Cairo,Member,Male,Sports and travel,12.76,2,2019-01-08,18:06:00,eWallet,25.52,1.276,7.8,1,8,1,18
+447,B,Ismailia,Member,Male,Fashion accessories,65.23,10,2019-01-08,19:07:00,Credit card,652.3,32.615,5.2,1,8,1,19
+652,C,Alexandria,Member,Male,Food and beverages,24.31,3,2019-01-08,19:09:00,Credit card,72.93,3.6465,4.3,1,8,1,19
+927,C,Alexandria,Member,Female,Food and beverages,72.88,9,2019-01-08,19:38:00,Cash,655.92,32.796,4.0,1,8,1,19
+475,C,Alexandria,Member,Female,Fashion accessories,51.89,7,2019-01-08,20:08:00,Cash,363.23,18.1615,4.5,1,8,1,20
+576,B,Ismailia,Member,Female,Food and beverages,74.6,10,2019-01-08,20:55:00,Cash,746.0,37.3,9.5,1,8,1,20
+100,C,Alexandria,Normal,Male,Electronic accessories,96.37,7,2019-01-09,11:40:00,Cash,674.59,33.7295,6.0,1,9,2,11
+960,C,Alexandria,Normal,Female,Home and lifestyle,15.8,10,2019-01-09,12:07:00,Cash,158.0,7.9,7.8,1,9,2,12
+235,A,Cairo,Member,Male,Fashion accessories,38.54,5,2019-01-09,13:34:00,eWallet,192.7,9.635,5.6,1,9,2,13
+549,C,Alexandria,Normal,Female,Sports and travel,95.44,10,2019-01-09,13:45:00,Cash,954.4,47.72,5.2,1,9,2,13
+332,C,Alexandria,Normal,Female,Fashion accessories,49.32,6,2019-01-09,13:46:00,eWallet,295.92,14.796,7.1,1,9,2,13
+193,C,Alexandria,Member,Male,Fashion accessories,49.04,9,2019-01-09,14:20:00,Credit card,441.36,22.068,8.6,1,9,2,14
+301,B,Ismailia,Member,Female,Sports and travel,11.85,8,2019-01-09,16:34:00,Cash,94.8,4.74,4.1,1,9,2,16
+254,B,Ismailia,Member,Female,Home and lifestyle,21.9,3,2019-01-09,18:43:00,eWallet,65.7,3.285,4.7,1,9,2,18
+989,C,Alexandria,Normal,Female,Sports and travel,83.14,7,2019-01-10,10:31:00,Credit card,581.98,29.099,6.6,1,10,3,10
+168,B,Ismailia,Normal,Female,Fashion accessories,79.86,7,2019-01-10,10:33:00,Credit card,559.02,27.951,5.5,1,10,3,10
+143,B,Ismailia,Normal,Female,Electronic accessories,13.78,4,2019-01-10,11:10:00,eWallet,55.12,2.756,9.0,1,10,3,11
+623,C,Alexandria,Member,Male,Electronic accessories,74.79,5,2019-01-10,11:34:00,Cash,373.95,18.6975,4.9,1,10,3,11
+798,A,Cairo,Member,Male,Home and lifestyle,78.38,6,2019-01-10,14:16:00,eWallet,470.28,23.514,5.8,1,10,3,14
+668,B,Ismailia,Normal,Male,Sports and travel,83.78,8,2019-01-10,14:49:00,Cash,670.24,33.512,5.1,1,10,3,14
+971,A,Cairo,Member,Female,Sports and travel,21.98,7,2019-01-10,16:42:00,eWallet,153.86,7.693,5.1,1,10,3,16
+702,A,Cairo,Member,Female,Health and beauty,36.26,2,2019-01-10,17:15:00,Credit card,72.52,3.626,7.2,1,10,3,17
+587,C,Alexandria,Member,Male,Food and beverages,50.49,9,2019-01-10,17:16:00,Cash,454.41,22.7205,5.4,1,10,3,17
+236,A,Cairo,Member,Male,Sports and travel,82.33,4,2019-01-11,10:37:00,Credit card,329.32,16.466,7.5,1,11,4,10
+470,A,Cairo,Normal,Male,Fashion accessories,89.69,1,2019-01-11,11:20:00,eWallet,89.69,4.4845,4.9,1,11,4,11
+381,A,Cairo,Normal,Female,Home and lifestyle,96.52,6,2019-01-11,11:52:00,Cash,579.12,28.956,4.5,1,11,4,11
+25,A,Cairo,Member,Male,Food and beverages,48.5,6,2019-01-11,13:57:00,eWallet,291.0,14.55,9.4,1,11,4,13
+807,C,Alexandria,Member,Female,Sports and travel,87.16,2,2019-01-11,14:29:00,Credit card,174.32,8.716,9.7,1,11,4,14
+529,A,Cairo,Normal,Male,Food and beverages,24.94,9,2019-01-11,16:49:00,Credit card,224.46,11.223,5.6,1,11,4,16
+783,A,Cairo,Normal,Male,Food and beverages,13.79,5,2019-01-11,19:07:00,Credit card,68.95,3.4475,7.8,1,11,4,19
+606,C,Alexandria,Member,Female,Food and beverages,36.77,7,2019-01-11,20:10:00,Cash,257.39,12.8695,7.4,1,11,4,20
+939,B,Ismailia,Normal,Female,Fashion accessories,83.25,10,2019-01-12,11:25:00,Credit card,832.5,41.625,4.4,1,12,5,11
+523,B,Ismailia,Normal,Female,Home and lifestyle,51.07,7,2019-01-12,11:42:00,Cash,357.49,17.8745,7.0,1,12,5,11
+695,C,Alexandria,Member,Male,Sports and travel,57.12,7,2019-01-12,12:02:00,Credit card,399.84,19.992,6.5,1,12,5,12
+743,A,Cairo,Member,Male,Electronic accessories,88.67,10,2019-01-12,14:50:00,eWallet,886.7,44.335,7.3,1,12,5,14
+352,A,Cairo,Member,Female,Fashion accessories,20.01,9,2019-01-12,15:48:00,Credit card,180.09,9.0045,5.7,1,12,5,15
+816,C,Alexandria,Normal,Male,Home and lifestyle,97.5,10,2019-01-12,16:18:00,eWallet,975.0,48.75,8.0,1,12,5,16
+679,A,Cairo,Normal,Female,Fashion accessories,29.42,10,2019-01-12,16:23:00,eWallet,294.2,14.71,8.9,1,12,5,16
+815,B,Ismailia,Normal,Male,Sports and travel,23.01,6,2019-01-12,16:45:00,eWallet,138.06,6.903,7.9,1,12,5,16
+930,B,Ismailia,Normal,Female,Health and beauty,57.22,2,2019-01-12,17:13:00,eWallet,114.44,5.722,8.3,1,12,5,17
+111,B,Ismailia,Member,Male,Electronic accessories,91.56,8,2019-01-12,18:22:00,eWallet,732.48,36.624,6.0,1,12,5,18
+243,B,Ismailia,Member,Female,Health and beauty,27.07,1,2019-01-12,20:07:00,Credit card,27.07,1.3535,5.3,1,12,5,20
+455,A,Cairo,Normal,Male,Sports and travel,45.58,7,2019-01-13,10:03:00,Cash,319.06,15.953,5.0,1,13,6,10
+109,A,Cairo,Member,Male,Home and lifestyle,81.01,3,2019-01-13,12:55:00,Credit card,243.03,12.1515,9.3,1,13,6,12
+849,C,Alexandria,Member,Female,Food and beverages,21.04,4,2019-01-13,13:58:00,Cash,84.16,4.208,7.6,1,13,6,13
+295,B,Ismailia,Member,Male,Fashion accessories,59.86,2,2019-01-13,14:55:00,eWallet,119.72,5.986,6.7,1,13,6,14
+784,C,Alexandria,Normal,Female,Electronic accessories,41.65,10,2019-01-13,17:04:00,Credit card,416.5,20.825,5.4,1,13,6,17
+370,A,Cairo,Member,Female,Health and beauty,39.62,9,2019-01-13,17:54:00,Credit card,356.58,17.829,6.8,1,13,6,17
+453,A,Cairo,Normal,Female,Electronic accessories,23.46,6,2019-01-13,19:14:00,eWallet,140.76,7.038,6.4,1,13,6,19
+554,C,Alexandria,Member,Female,Fashion accessories,74.29,1,2019-01-13,19:30:00,Cash,74.29,3.7145,5.0,1,13,6,19
+286,B,Ismailia,Member,Male,Sports and travel,72.6,6,2019-01-13,19:51:00,Cash,435.6,21.78,6.9,1,13,6,19
+314,B,Ismailia,Normal,Male,Food and beverages,72.39,2,2019-01-13,19:55:00,Credit card,144.78,7.239,8.1,1,13,6,19
+405,C,Alexandria,Normal,Male,Electronic accessories,61.41,7,2019-01-14,10:02:00,Cash,429.87,21.4935,9.8,1,14,0,10
+276,B,Ismailia,Normal,Female,Sports and travel,34.81,1,2019-01-14,10:11:00,Credit card,34.81,1.7405,7.0,1,14,0,10
+558,B,Ismailia,Normal,Female,Health and beauty,17.75,1,2019-01-14,10:38:00,Cash,17.75,0.8875,8.6,1,14,0,10
+740,C,Alexandria,Member,Male,Health and beauty,60.47,3,2019-01-14,10:55:00,Credit card,181.41,9.0705,5.6,1,14,0,10
+962,B,Ismailia,Normal,Female,Food and beverages,99.69,5,2019-01-14,12:09:00,Cash,498.45,24.9225,9.9,1,14,0,12
+704,A,Cairo,Member,Female,Fashion accessories,96.7,5,2019-01-14,12:52:00,eWallet,483.5,24.175,7.0,1,14,0,12
+346,C,Alexandria,Member,Female,Electronic accessories,44.84,9,2019-01-14,14:00:00,Credit card,403.56,20.178,7.5,1,14,0,14
+605,C,Alexandria,Normal,Male,Food and beverages,31.77,4,2019-01-14,14:43:00,eWallet,127.08,6.354,6.2,1,14,0,14
+441,C,Alexandria,Normal,Male,Food and beverages,84.83,1,2019-01-14,15:20:00,eWallet,84.83,4.2415,8.8,1,14,0,15
+694,C,Alexandria,Normal,Male,Health and beauty,53.19,7,2019-01-14,15:42:00,eWallet,372.33,18.6165,5.0,1,14,0,15
+318,B,Ismailia,Member,Female,Fashion accessories,18.08,4,2019-01-14,18:03:00,Credit card,72.32,3.616,9.5,1,14,0,18
+851,B,Ismailia,Normal,Male,Food and beverages,73.06,7,2019-01-14,19:06:00,Credit card,511.42,25.571,4.2,1,14,0,19
+602,A,Cairo,Member,Male,Fashion accessories,56.04,10,2019-01-14,19:30:00,eWallet,560.4,28.02,4.4,1,14,0,19
+247,A,Cairo,Normal,Female,Sports and travel,19.1,7,2019-01-15,10:43:00,Cash,133.7,6.685,9.7,1,15,1,10
+603,A,Cairo,Member,Male,Food and beverages,83.77,2,2019-01-15,10:54:00,Credit card,167.54,8.377,7.0,1,15,1,10
+419,B,Ismailia,Normal,Female,Fashion accessories,73.52,2,2019-01-15,13:41:00,eWallet,147.04,7.352,4.6,1,15,1,13
+800,B,Ismailia,Normal,Female,Home and lifestyle,97.37,10,2019-01-15,13:48:00,Credit card,973.7,48.685,4.9,1,15,1,13
+97,B,Ismailia,Member,Male,Health and beauty,66.47,10,2019-01-15,15:01:00,Credit card,664.7,33.235,5.0,1,15,1,15
+697,C,Alexandria,Normal,Male,Electronic accessories,55.87,10,2019-01-15,15:01:00,Cash,558.7,27.935,5.8,1,15,1,15
+40,A,Cairo,Member,Female,Home and lifestyle,89.21,9,2019-01-15,15:42:00,Credit card,802.89,40.1445,6.5,1,15,1,15
+245,B,Ismailia,Member,Female,Sports and travel,93.72,6,2019-01-15,16:19:00,Cash,562.32,28.116,4.5,1,15,1,16
+207,A,Cairo,Normal,Female,Electronic accessories,60.88,9,2019-01-15,17:17:00,eWallet,547.92,27.396,4.7,1,15,1,17
+987,A,Cairo,Normal,Female,Home and lifestyle,11.43,6,2019-01-15,17:24:00,Cash,68.58,3.429,7.7,1,15,1,17
+330,B,Ismailia,Normal,Male,Electronic accessories,75.66,5,2019-01-15,18:22:00,eWallet,378.3,18.915,7.8,1,15,1,18
+438,C,Alexandria,Member,Male,Food and beverages,17.44,5,2019-01-15,19:25:00,Cash,87.2,4.36,8.1,1,15,1,19
+263,C,Alexandria,Member,Male,Health and beauty,81.23,7,2019-01-15,20:44:00,Cash,568.61,28.4305,9.0,1,15,1,20
+922,C,Alexandria,Member,Male,Sports and travel,17.14,7,2019-01-16,12:07:00,Credit card,119.98,5.999,7.9,1,16,2,12
+156,C,Alexandria,Normal,Male,Home and lifestyle,95.58,10,2019-01-16,13:32:00,Cash,955.8,47.79,4.8,1,16,2,13
+335,C,Alexandria,Normal,Female,Food and beverages,52.6,9,2019-01-16,14:42:00,Cash,473.4,23.67,7.6,1,16,2,14
+946,C,Alexandria,Member,Female,Sports and travel,15.49,2,2019-01-16,15:10:00,Cash,30.98,1.549,6.3,1,16,2,15
+696,B,Ismailia,Member,Male,Fashion accessories,51.36,1,2019-01-16,15:26:00,eWallet,51.36,2.568,5.2,1,16,2,15
+680,A,Cairo,Member,Male,Home and lifestyle,63.56,10,2019-01-16,17:59:00,Cash,635.6,31.78,4.3,1,16,2,17
+309,B,Ismailia,Member,Female,Sports and travel,90.74,7,2019-01-16,18:03:00,Credit card,635.18,31.759,6.2,1,16,2,18
+715,C,Alexandria,Normal,Female,Food and beverages,93.26,9,2019-01-16,18:08:00,Cash,839.34,41.967,8.8,1,16,2,18
+642,A,Cairo,Normal,Female,Sports and travel,93.18,2,2019-01-16,18:41:00,Credit card,186.36,9.318,8.5,1,16,2,18
+230,B,Ismailia,Normal,Male,Fashion accessories,39.21,4,2019-01-16,20:03:00,Credit card,156.84,7.842,9.0,1,16,2,20
+717,B,Ismailia,Normal,Female,Sports and travel,40.62,2,2019-01-17,10:01:00,Credit card,81.24,4.062,4.1,1,17,3,10
+310,B,Ismailia,Member,Male,Food and beverages,57.89,2,2019-01-17,10:37:00,eWallet,115.78,5.789,8.9,1,17,3,10
+1,C,Alexandria,Member,Female,Health and beauty,62.82,2,2019-01-17,12:36:00,eWallet,125.64,6.282,4.9,1,17,3,12
+806,A,Cairo,Normal,Male,Home and lifestyle,21.52,6,2019-01-17,12:48:00,Credit card,129.12,6.456,9.4,1,17,3,12
+731,A,Cairo,Normal,Female,Food and beverages,81.21,10,2019-01-17,13:01:00,Credit card,812.1,40.605,6.3,1,17,3,13
+620,C,Alexandria,Member,Male,Sports and travel,71.92,5,2019-01-17,15:05:00,Credit card,359.6,17.98,4.3,1,17,3,15
+486,A,Cairo,Normal,Male,Sports and travel,58.91,7,2019-01-17,15:15:00,eWallet,412.37,20.6185,9.7,1,17,3,15
+709,B,Ismailia,Member,Female,Home and lifestyle,94.59,7,2019-01-17,15:27:00,Credit card,662.13,33.1065,4.9,1,17,3,15
+115,C,Alexandria,Member,Male,Food and beverages,65.65,2,2019-01-17,16:46:00,Cash,131.3,6.565,6.0,1,17,3,16
+430,A,Cairo,Normal,Male,Sports and travel,25.7,3,2019-01-17,17:59:00,eWallet,77.1,3.855,6.1,1,17,3,17
+221,B,Ismailia,Member,Female,Home and lifestyle,86.72,1,2019-01-17,18:45:00,eWallet,86.72,4.336,7.9,1,17,3,18
+562,A,Cairo,Member,Female,Fashion accessories,88.15,3,2019-01-18,10:11:00,eWallet,264.45,13.2225,7.9,1,18,4,10
+390,B,Ismailia,Normal,Male,Food and beverages,19.79,8,2019-01-18,12:04:00,eWallet,158.32,7.916,8.7,1,18,4,12
+893,B,Ismailia,Member,Female,Fashion accessories,17.48,6,2019-01-18,15:04:00,Credit card,104.88,5.244,6.1,1,18,4,15
+644,C,Alexandria,Normal,Female,Health and beauty,39.42,1,2019-01-18,15:08:00,Cash,39.42,1.971,8.4,1,18,4,15
+716,C,Alexandria,Member,Female,Sports and travel,90.63,9,2019-01-18,15:28:00,Cash,815.67,40.7835,5.1,1,18,4,15
+846,C,Alexandria,Normal,Male,Fashion accessories,60.74,7,2019-01-18,16:23:00,eWallet,425.18,21.259,5.0,1,18,4,16
+73,A,Cairo,Member,Male,Sports and travel,89.06,6,2019-01-18,17:26:00,Cash,534.36,26.718,9.9,1,18,4,17
+744,A,Cairo,Member,Male,Home and lifestyle,19.36,9,2019-01-18,18:43:00,eWallet,174.24,8.712,8.7,1,18,4,18
+735,A,Cairo,Normal,Female,Electronic accessories,26.31,5,2019-01-18,20:59:00,Credit card,131.55,6.5775,8.8,1,18,4,20
+829,B,Ismailia,Member,Female,Electronic accessories,12.1,8,2019-01-19,10:17:00,eWallet,96.8,4.84,8.6,1,19,5,10
+844,C,Alexandria,Member,Female,Home and lifestyle,88.61,1,2019-01-19,10:21:00,Cash,88.61,4.4305,7.7,1,19,5,10
+57,C,Alexandria,Normal,Female,Electronic accessories,56.13,4,2019-01-19,11:43:00,eWallet,224.52,11.226,8.6,1,19,5,11
+771,C,Alexandria,Member,Male,Food and beverages,59.59,4,2019-01-19,12:46:00,Cash,238.36,11.918,9.8,1,19,5,12
+473,A,Cairo,Member,Male,Electronic accessories,11.94,3,2019-01-19,12:47:00,Credit card,35.82,1.791,8.1,1,19,5,12
+21,A,Cairo,Normal,Female,Fashion accessories,99.1,6,2019-01-19,13:11:00,Cash,594.6,29.73,4.2,1,19,5,13
+53,A,Cairo,Normal,Male,Sports and travel,64.19,10,2019-01-19,14:08:00,Credit card,641.9,32.095,6.7,1,19,5,14
+980,A,Cairo,Member,Male,Sports and travel,67.26,4,2019-01-19,15:28:00,Credit card,269.04,13.452,8.0,1,19,5,15
+343,B,Ismailia,Normal,Male,Sports and travel,63.06,3,2019-01-19,15:58:00,eWallet,189.18,9.459,7.0,1,19,5,15
+226,C,Alexandria,Member,Male,Sports and travel,80.93,1,2019-01-19,16:08:00,Credit card,80.93,4.0465,9.0,1,19,5,16
+867,A,Cairo,Normal,Male,Food and beverages,51.28,6,2019-01-19,16:31:00,Cash,307.68,15.384,6.5,1,19,5,16
+633,B,Ismailia,Member,Male,Electronic accessories,52.89,6,2019-01-19,17:34:00,Credit card,317.34,15.867,9.8,1,19,5,17
+882,A,Cairo,Normal,Female,Home and lifestyle,45.68,10,2019-01-19,19:30:00,eWallet,456.8,22.84,5.7,1,19,5,19
+995,C,Alexandria,Normal,Female,Food and beverages,43.18,8,2019-01-19,19:39:00,Credit card,345.44,17.272,8.3,1,19,5,19
+677,A,Cairo,Member,Male,Home and lifestyle,58.07,9,2019-01-19,20:07:00,eWallet,522.63,26.1315,4.3,1,19,5,20
+908,A,Cairo,Normal,Male,Food and beverages,33.88,8,2019-01-19,20:29:00,eWallet,271.04,13.552,9.6,1,19,5,20
+764,C,Alexandria,Member,Female,Home and lifestyle,89.25,8,2019-01-20,10:13:00,Cash,714.0,35.7,4.7,1,20,6,10
+449,C,Alexandria,Normal,Male,Health and beauty,64.08,7,2019-01-20,12:27:00,eWallet,448.56,22.428,7.6,1,20,6,12
+316,B,Ismailia,Normal,Male,Home and lifestyle,37.48,3,2019-01-20,13:45:00,Credit card,112.44,5.622,7.7,1,20,6,13
+856,A,Cairo,Member,Male,Health and beauty,55.5,4,2019-01-20,15:48:00,Credit card,222.0,11.1,6.6,1,20,6,15
+890,A,Cairo,Member,Female,Home and lifestyle,72.35,10,2019-01-20,15:55:00,Cash,723.5,36.175,5.4,1,20,6,15
+188,C,Alexandria,Member,Male,Sports and travel,82.93,4,2019-01-20,16:51:00,eWallet,331.72,16.586,9.6,1,20,6,16
+387,A,Cairo,Member,Female,Fashion accessories,63.88,8,2019-01-20,17:48:00,eWallet,511.04,25.552,9.9,1,20,6,17
+678,A,Cairo,Normal,Female,Sports and travel,93.14,2,2019-01-20,18:09:00,eWallet,186.28,9.314,4.1,1,20,6,18
+825,C,Alexandria,Normal,Male,Fashion accessories,15.62,8,2019-01-20,20:37:00,eWallet,124.96,6.248,9.1,1,20,6,20
+348,B,Ismailia,Normal,Male,Home and lifestyle,53.44,2,2019-01-20,20:38:00,eWallet,106.88,5.344,4.1,1,20,6,20
+268,A,Cairo,Member,Female,Food and beverages,36.36,2,2019-01-21,10:00:00,Cash,72.72,3.636,7.1,1,21,0,10
+966,C,Alexandria,Normal,Female,Health and beauty,99.19,6,2019-01-21,14:42:00,Credit card,595.14,29.757,5.5,1,21,0,14
+165,A,Cairo,Normal,Female,Home and lifestyle,77.95,6,2019-01-21,16:37:00,eWallet,467.7,23.385,8.0,1,21,0,16
+378,B,Ismailia,Member,Female,Sports and travel,98.13,1,2019-01-21,17:36:00,Cash,98.13,4.9065,8.9,1,21,0,17
+456,A,Cairo,Normal,Male,Home and lifestyle,73.22,6,2019-01-21,17:44:00,Cash,439.32,21.966,7.2,1,21,0,17
+287,A,Cairo,Normal,Male,Food and beverages,54.67,3,2019-01-21,18:00:00,Credit card,164.01,8.2005,8.6,1,21,0,18
+203,A,Cairo,Member,Male,Health and beauty,53.17,7,2019-01-21,18:01:00,Cash,372.19,18.6095,8.9,1,21,0,18
+71,C,Alexandria,Member,Male,Food and beverages,68.98,1,2019-01-21,20:13:00,Cash,68.98,3.449,4.8,1,21,0,20
+232,A,Cairo,Normal,Male,Home and lifestyle,74.67,9,2019-01-22,10:55:00,eWallet,672.03,33.6015,9.4,1,22,1,10
+92,C,Alexandria,Member,Female,Health and beauty,81.51,1,2019-01-22,10:57:00,eWallet,81.51,4.0755,9.2,1,22,1,10
+454,A,Cairo,Normal,Male,Home and lifestyle,30.68,3,2019-01-22,11:00:00,eWallet,92.04,4.602,9.1,1,22,1,11
+564,B,Ismailia,Normal,Female,Health and beauty,55.81,6,2019-01-22,11:52:00,Cash,334.86,16.743,9.9,1,22,1,11
+16,B,Ismailia,Normal,Female,Food and beverages,28.86,5,2019-01-22,18:08:00,Credit card,144.3,7.215,8.0,1,22,1,18
+820,C,Alexandria,Normal,Female,Health and beauty,20.38,5,2019-01-22,18:56:00,Cash,101.9,5.095,6.0,1,22,1,18
+508,C,Alexandria,Member,Male,Home and lifestyle,39.39,5,2019-01-22,20:46:00,Credit card,196.95,9.8475,8.7,1,22,1,20
+861,C,Alexandria,Normal,Female,Health and beauty,10.99,5,2019-01-23,10:18:00,Credit card,54.95,2.7475,9.3,1,23,2,10
+568,C,Alexandria,Member,Female,Home and lifestyle,47.38,4,2019-01-23,10:25:00,Cash,189.52,9.476,7.1,1,23,2,10
+128,A,Cairo,Normal,Female,Electronic accessories,66.06,6,2019-01-23,10:28:00,Cash,396.36,19.818,7.3,1,23,2,10
+49,C,Alexandria,Normal,Male,Health and beauty,99.96,7,2019-01-23,10:33:00,Cash,699.72,34.986,6.1,1,23,2,10
+469,C,Alexandria,Normal,Female,Fashion accessories,45.44,7,2019-01-23,11:15:00,Cash,318.08,15.904,9.2,1,23,2,11
+900,A,Cairo,Member,Male,Food and beverages,98.53,6,2019-01-23,11:22:00,Credit card,591.18,29.559,4.0,1,23,2,11
+415,C,Alexandria,Member,Male,Food and beverages,38.47,8,2019-01-23,11:51:00,Cash,307.76,15.388,7.7,1,23,2,11
+833,C,Alexandria,Member,Female,Home and lifestyle,83.77,6,2019-01-23,12:10:00,eWallet,502.62,25.131,5.4,1,23,2,12
+269,A,Cairo,Normal,Male,Fashion accessories,30.61,1,2019-01-23,12:20:00,eWallet,30.61,1.5305,5.2,1,23,2,12
+267,A,Cairo,Member,Female,Food and beverages,47.63,9,2019-01-23,12:35:00,Cash,428.67,21.4335,5.0,1,23,2,12
+781,C,Alexandria,Member,Female,Sports and travel,89.8,10,2019-01-23,13:00:00,Credit card,898.0,44.9,5.4,1,23,2,13
+793,C,Alexandria,Normal,Female,Electronic accessories,84.05,3,2019-01-23,13:29:00,Cash,252.15,12.6075,9.8,1,23,2,13
+624,A,Cairo,Member,Male,Fashion accessories,17.94,5,2019-01-23,14:04:00,eWallet,89.7,4.485,6.8,1,23,2,14
+69,A,Cairo,Member,Female,Health and beauty,95.95,5,2019-01-23,14:21:00,eWallet,479.75,23.9875,8.8,1,23,2,14
+135,C,Alexandria,Normal,Male,Electronic accessories,83.08,1,2019-01-23,17:16:00,eWallet,83.08,4.154,6.4,1,23,2,17
+881,A,Cairo,Normal,Male,Health and beauty,58.15,4,2019-01-23,17:44:00,Cash,232.6,11.63,8.4,1,23,2,17
+472,C,Alexandria,Normal,Male,Food and beverages,19.25,8,2019-01-23,18:37:00,eWallet,154.0,7.7,6.6,1,23,2,18
+150,A,Cairo,Normal,Male,Sports and travel,78.77,10,2019-01-24,10:04:00,Cash,787.7,39.385,6.4,1,24,3,10
+421,B,Ismailia,Normal,Male,Electronic accessories,75.88,7,2019-01-24,10:38:00,eWallet,531.16,26.558,8.9,1,24,3,10
+841,A,Cairo,Member,Female,Electronic accessories,48.62,8,2019-01-24,10:57:00,Cash,388.96,19.448,5.0,1,24,3,10
+859,B,Ismailia,Member,Male,Fashion accessories,93.22,3,2019-01-24,11:45:00,Cash,279.66,13.983,7.2,1,24,3,11
+428,C,Alexandria,Member,Female,Home and lifestyle,60.87,1,2019-01-24,13:24:00,Cash,60.87,3.0435,5.5,1,24,3,13
+837,B,Ismailia,Normal,Male,Home and lifestyle,73.28,5,2019-01-24,15:05:00,eWallet,366.4,18.32,8.4,1,24,3,15
+41,B,Ismailia,Member,Male,Electronic accessories,40.3,10,2019-01-24,17:37:00,Credit card,403.0,20.15,7.0,1,24,3,17
+162,A,Cairo,Normal,Male,Electronic accessories,10.56,8,2019-01-24,17:43:00,Cash,84.48,4.224,7.6,1,24,3,17
+416,A,Cairo,Member,Male,Fashion accessories,86.68,8,2019-01-24,18:04:00,Credit card,693.44,34.672,7.2,1,24,3,18
+621,B,Ismailia,Normal,Female,Sports and travel,76.6,10,2019-01-24,18:10:00,eWallet,766.0,38.3,6.0,1,24,3,18
+499,B,Ismailia,Member,Female,Sports and travel,23.08,6,2019-01-24,19:20:00,eWallet,138.48,6.924,4.9,1,24,3,19
+765,A,Cairo,Normal,Female,Health and beauty,77.5,5,2019-01-24,20:36:00,eWallet,387.5,19.375,4.3,1,24,3,20
+157,C,Alexandria,Member,Male,Home and lifestyle,85.72,3,2019-01-24,20:59:00,eWallet,257.16,12.858,5.1,1,24,3,20
+777,B,Ismailia,Member,Male,Health and beauty,51.13,4,2019-01-25,10:11:00,Credit card,204.52,10.226,4.0,1,25,4,10
+925,A,Cairo,Normal,Male,Fashion accessories,74.1,1,2019-01-25,11:05:00,Cash,74.1,3.705,9.2,1,25,4,11
+297,A,Cairo,Member,Female,Sports and travel,40.05,4,2019-01-25,11:40:00,Cash,160.2,8.01,9.7,1,25,4,11
+106,B,Ismailia,Normal,Female,Fashion accessories,39.62,7,2019-01-25,13:18:00,Cash,277.34,13.867,7.5,1,25,4,13
+224,B,Ismailia,Normal,Female,Food and beverages,48.51,7,2019-01-25,13:30:00,Credit card,339.57,16.9785,5.2,1,25,4,13
+368,C,Alexandria,Member,Female,Sports and travel,70.19,9,2019-01-25,13:38:00,Cash,631.71,31.5855,6.7,1,25,4,13
+220,C,Alexandria,Member,Male,Health and beauty,90.5,10,2019-01-25,13:48:00,Cash,905.0,45.25,8.1,1,25,4,13
+943,A,Cairo,Member,Male,Home and lifestyle,53.3,3,2019-01-25,14:19:00,eWallet,159.9,7.995,7.5,1,25,4,14
+574,B,Ismailia,Normal,Male,Sports and travel,21.87,2,2019-01-25,14:29:00,eWallet,43.74,2.187,6.9,1,25,4,14
+894,C,Alexandria,Normal,Male,Health and beauty,34.31,8,2019-01-25,15:00:00,eWallet,274.48,13.724,5.7,1,25,4,15
+842,C,Alexandria,Member,Male,Fashion accessories,15.43,1,2019-01-25,15:46:00,Credit card,15.43,0.7715,6.1,1,25,4,15
+256,A,Cairo,Member,Male,Home and lifestyle,60.01,4,2019-01-25,15:54:00,Cash,240.04,12.002,4.5,1,25,4,15
+199,B,Ismailia,Normal,Male,Health and beauty,96.11,1,2019-01-25,16:28:00,eWallet,96.11,4.8055,7.8,1,25,4,16
+234,C,Alexandria,Member,Female,Fashion accessories,84.87,3,2019-01-25,18:30:00,eWallet,254.61,12.7305,7.4,1,25,4,18
+191,B,Ismailia,Normal,Female,Fashion accessories,60.96,2,2019-01-25,19:39:00,Credit card,121.92,6.096,4.9,1,25,4,19
+47,B,Ismailia,Normal,Female,Food and beverages,88.36,5,2019-01-25,19:48:00,Cash,441.8,22.09,9.6,1,25,4,19
+990,A,Cairo,Normal,Male,Electronic accessories,26.23,9,2019-01-25,20:24:00,eWallet,236.07,11.8035,5.9,1,25,4,20
+979,C,Alexandria,Normal,Female,Fashion accessories,64.99,1,2019-01-26,10:06:00,Credit card,64.99,3.2495,4.5,1,26,5,10
+998,A,Cairo,Normal,Male,Fashion accessories,21.32,1,2019-01-26,12:43:00,Cash,21.32,1.066,5.9,1,26,5,12
+266,B,Ismailia,Member,Male,Food and beverages,80.05,5,2019-01-26,12:45:00,Credit card,400.25,20.0125,9.4,1,26,5,12
+864,B,Ismailia,Normal,Male,Food and beverages,33.33,2,2019-01-26,14:41:00,Credit card,66.66,3.333,6.4,1,26,5,14
+78,B,Ismailia,Normal,Female,Fashion accessories,37.95,10,2019-01-26,14:51:00,Cash,379.5,18.975,9.7,1,26,5,14
+84,C,Alexandria,Member,Male,Health and beauty,33.81,3,2019-01-26,15:11:00,eWallet,101.43,5.0715,7.3,1,26,5,15
+442,B,Ismailia,Normal,Male,Electronic accessories,87.08,7,2019-01-26,15:17:00,Cash,609.56,30.478,5.5,1,26,5,15
+35,B,Ismailia,Member,Female,Food and beverages,78.88,2,2019-01-26,16:04:00,Cash,157.76,7.888,9.1,1,26,5,16
+528,B,Ismailia,Normal,Female,Sports and travel,51.54,5,2019-01-26,17:45:00,Cash,257.7,12.885,4.2,1,26,5,17
+258,A,Cairo,Normal,Female,Fashion accessories,12.09,1,2019-01-26,18:19:00,Credit card,12.09,0.6045,8.2,1,26,5,18
+911,A,Cairo,Normal,Male,Electronic accessories,51.69,7,2019-01-26,18:22:00,Cash,361.83,18.0915,5.5,1,26,5,18
+189,C,Alexandria,Normal,Female,Fashion accessories,36.85,5,2019-01-26,18:53:00,Cash,184.25,9.2125,9.2,1,26,5,18
+914,B,Ismailia,Member,Male,Health and beauty,69.37,9,2019-01-26,19:14:00,eWallet,624.33,31.2165,4.0,1,26,5,19
+237,B,Ismailia,Normal,Female,Fashion accessories,81.37,2,2019-01-26,19:28:00,Cash,162.74,8.137,6.5,1,26,5,19
+140,C,Alexandria,Normal,Female,Sports and travel,44.86,10,2019-01-26,19:54:00,eWallet,448.6,22.43,8.2,1,26,5,19
+929,B,Ismailia,Normal,Female,Food and beverages,96.68,3,2019-01-26,19:56:00,eWallet,290.04,14.502,6.4,1,26,5,19
+669,B,Ismailia,Normal,Male,Home and lifestyle,25.55,4,2019-01-26,20:23:00,eWallet,102.2,5.11,5.7,1,26,5,20
+645,B,Ismailia,Normal,Female,Home and lifestyle,49.01,10,2019-01-27,10:44:00,Credit card,490.1,24.505,4.2,1,27,6,10
+953,C,Alexandria,Normal,Female,Food and beverages,90.24,6,2019-01-27,11:17:00,Cash,541.44,27.072,6.2,1,27,6,11
+965,A,Cairo,Normal,Female,Sports and travel,32.25,5,2019-01-27,13:26:00,Cash,161.25,8.0625,9.0,1,27,6,13
+283,C,Alexandria,Member,Female,Electronic accessories,46.57,10,2019-01-27,13:58:00,Cash,465.7,23.285,7.6,1,27,6,13
+638,C,Alexandria,Normal,Female,Sports and travel,14.36,10,2019-01-27,14:28:00,Cash,143.6,7.18,5.4,1,27,6,14
+524,A,Cairo,Normal,Male,Food and beverages,81.71,6,2019-01-27,14:36:00,Credit card,490.26,24.513,8.0,1,27,6,14
+366,C,Alexandria,Member,Female,Fashion accessories,54.07,9,2019-01-27,14:55:00,eWallet,486.63,24.3315,9.5,1,27,6,14
+658,A,Cairo,Normal,Female,Home and lifestyle,12.03,2,2019-01-27,15:51:00,Cash,24.06,1.203,5.1,1,27,6,15
+857,C,Alexandria,Member,Female,Home and lifestyle,24.24,7,2019-01-27,17:38:00,eWallet,169.68,8.484,9.4,1,27,6,17
+613,A,Cairo,Normal,Female,Fashion accessories,54.28,7,2019-01-27,18:05:00,eWallet,379.96,18.998,9.3,1,27,6,18
+597,A,Cairo,Member,Male,Electronic accessories,73.26,1,2019-01-27,18:08:00,eWallet,73.26,3.663,9.7,1,27,6,18
+643,C,Alexandria,Normal,Male,Home and lifestyle,69.4,2,2019-01-27,19:48:00,eWallet,138.8,6.94,9.0,1,27,6,19
+964,B,Ismailia,Member,Male,Health and beauty,96.16,4,2019-01-27,20:03:00,Credit card,384.64,19.232,8.4,1,27,6,20
+18,A,Cairo,Member,Male,Health and beauty,58.22,8,2019-01-27,20:33:00,eWallet,465.76,23.288,8.4,1,27,6,20
+535,B,Ismailia,Member,Female,Electronic accessories,21.43,10,2019-01-28,11:51:00,Cash,214.3,10.715,6.2,1,28,0,11
+54,B,Ismailia,Member,Male,Sports and travel,78.07,9,2019-01-28,12:43:00,Cash,702.63,35.1315,4.5,1,28,0,12
+376,C,Alexandria,Normal,Female,Sports and travel,80.97,8,2019-01-28,13:05:00,Cash,647.76,32.388,9.3,1,28,0,13
+139,B,Ismailia,Member,Female,Health and beauty,72.11,9,2019-01-28,13:53:00,Credit card,648.99,32.4495,7.7,1,28,0,13
+126,C,Alexandria,Normal,Male,Health and beauty,17.41,5,2019-01-28,15:16:00,Credit card,87.05,4.3525,4.9,1,28,0,15
+409,B,Ismailia,Member,Male,Health and beauty,75.37,8,2019-01-28,15:46:00,Credit card,602.96,30.148,8.4,1,28,0,15
+173,C,Alexandria,Member,Male,Electronic accessories,18.77,6,2019-01-28,16:43:00,Credit card,112.62,5.631,5.5,1,28,0,16
+299,C,Alexandria,Member,Male,Health and beauty,86.8,3,2019-01-28,16:47:00,eWallet,260.4,13.02,9.9,1,28,0,16
+955,A,Cairo,Normal,Male,Food and beverages,11.53,7,2019-01-28,17:35:00,Cash,80.71,4.0355,8.1,1,28,0,17
+734,B,Ismailia,Normal,Male,Health and beauty,99.16,8,2019-01-28,17:47:00,Credit card,793.28,39.664,4.2,1,28,0,17
+363,B,Ismailia,Member,Female,Health and beauty,19.15,1,2019-01-28,17:58:00,Credit card,19.15,0.9575,9.5,1,28,0,17
+334,C,Alexandria,Normal,Female,Fashion accessories,23.82,5,2019-01-28,19:24:00,eWallet,119.1,5.955,5.4,1,28,0,19
+609,C,Alexandria,Normal,Female,Home and lifestyle,69.81,4,2019-01-28,20:50:00,Credit card,279.24,13.962,5.9,1,28,0,20
+766,A,Cairo,Member,Male,Electronic accessories,24.18,8,2019-01-28,20:54:00,eWallet,193.44,9.672,9.8,1,28,0,20
+628,C,Alexandria,Member,Female,Sports and travel,19.15,6,2019-01-29,10:01:00,Credit card,114.9,5.745,6.8,1,29,1,10
+951,B,Ismailia,Normal,Female,Food and beverages,84.05,6,2019-01-29,10:48:00,Credit card,504.3,25.215,7.7,1,29,1,10
+585,A,Cairo,Normal,Male,Electronic accessories,38.6,1,2019-01-29,11:26:00,eWallet,38.6,1.93,6.7,1,29,1,11
+300,B,Ismailia,Member,Male,Sports and travel,26.67,10,2019-01-29,11:48:00,Cash,266.7,13.335,8.6,1,29,1,11
+808,A,Cairo,Normal,Male,Fashion accessories,83.24,9,2019-01-29,11:56:00,Credit card,749.16,37.458,7.4,1,29,1,11
+354,C,Alexandria,Normal,Male,Fashion accessories,42.08,6,2019-01-29,12:25:00,Cash,252.48,12.624,8.9,1,29,1,12
+153,C,Alexandria,Normal,Male,Health and beauty,40.35,1,2019-01-29,13:46:00,eWallet,40.35,2.0175,6.2,1,29,1,13
+10,B,Ismailia,Member,Male,Fashion accessories,32.62,4,2019-01-29,14:12:00,Cash,130.48,6.524,9.0,1,29,1,14
+38,C,Alexandria,Normal,Male,Electronic accessories,58.76,10,2019-01-29,14:26:00,eWallet,587.6,29.38,9.0,1,29,1,14
+889,A,Cairo,Member,Female,Sports and travel,27.93,5,2019-01-29,15:48:00,Cash,139.65,6.9825,5.9,1,29,1,15
+575,A,Cairo,Member,Female,Sports and travel,22.01,4,2019-01-29,18:15:00,Credit card,88.04,4.402,6.6,1,29,1,18
+870,A,Cairo,Member,Female,Home and lifestyle,87.37,5,2019-01-29,19:45:00,Cash,436.85,21.8425,6.6,1,29,1,19
+876,A,Cairo,Member,Male,Electronic accessories,93.78,3,2019-01-30,11:32:00,Credit card,281.34,14.067,5.9,1,30,2,11
+88,B,Ismailia,Normal,Female,Electronic accessories,23.65,4,2019-01-30,13:32:00,Credit card,94.6,4.73,4.0,1,30,2,13
+33,B,Ismailia,Normal,Female,Electronic accessories,42.42,8,2019-01-30,13:58:00,eWallet,339.36,16.968,5.7,1,30,2,13
+701,C,Alexandria,Member,Female,Home and lifestyle,10.53,5,2019-01-30,14:43:00,Credit card,52.65,2.6325,5.8,1,30,2,14
+391,C,Alexandria,Normal,Female,Food and beverages,97.03,5,2019-01-30,16:24:00,eWallet,485.15,24.2575,9.3,1,30,2,16
+952,C,Alexandria,Normal,Female,Sports and travel,22.38,1,2019-01-30,17:08:00,Credit card,22.38,1.119,8.6,1,30,2,17
+403,C,Alexandria,Normal,Male,Sports and travel,76.4,2,2019-01-30,19:42:00,eWallet,152.8,7.64,6.5,1,30,2,19
+223,C,Alexandria,Member,Female,Food and beverages,98.52,10,2019-01-30,20:23:00,eWallet,985.2,49.26,4.5,1,30,2,20
+553,C,Alexandria,Normal,Male,Home and lifestyle,22.96,1,2019-01-30,20:47:00,Cash,22.96,1.148,4.3,1,30,2,20
+509,A,Cairo,Member,Male,Fashion accessories,51.34,8,2019-01-31,10:00:00,eWallet,410.72,20.536,7.6,1,31,3,10
+102,C,Alexandria,Normal,Female,Fashion accessories,62.18,10,2019-01-31,10:33:00,eWallet,621.8,31.09,6.0,1,31,3,10
+790,C,Alexandria,Member,Male,Fashion accessories,98.7,8,2019-01-31,10:36:00,eWallet,789.6,39.48,8.5,1,31,3,10
+329,A,Cairo,Member,Male,Electronic accessories,66.35,1,2019-01-31,10:46:00,Credit card,66.35,3.3175,9.7,1,31,3,10
+144,C,Alexandria,Normal,Female,Sports and travel,23.75,9,2019-01-31,12:02:00,Cash,213.75,10.6875,9.5,1,31,3,12
+512,B,Ismailia,Member,Male,Sports and travel,75.82,1,2019-01-31,13:19:00,Cash,75.82,3.791,5.8,1,31,3,13
+166,B,Ismailia,Normal,Male,Electronic accessories,45.35,6,2019-01-31,13:44:00,eWallet,272.1,13.605,6.1,1,31,3,13
+96,A,Cairo,Member,Male,Electronic accessories,20.77,4,2019-01-31,13:47:00,Cash,83.08,4.154,4.7,1,31,3,13
+521,B,Ismailia,Member,Male,Sports and travel,79.93,6,2019-01-31,14:04:00,Cash,479.58,23.979,5.5,1,31,3,14
+511,B,Ismailia,Normal,Male,Electronic accessories,72.13,10,2019-01-31,15:12:00,Credit card,721.3,36.065,4.2,1,31,3,15
+591,C,Alexandria,Member,Male,Electronic accessories,37.06,4,2019-01-31,16:24:00,eWallet,148.24,7.412,9.7,1,31,3,16
+231,B,Ismailia,Normal,Male,Fashion accessories,69.08,2,2019-01-31,19:48:00,Credit card,138.16,6.908,6.9,1,31,3,19
+448,B,Ismailia,Member,Male,Electronic accessories,87.87,9,2019-01-31,20:32:00,eWallet,790.83,39.5415,5.6,1,31,3,20
+910,B,Ismailia,Normal,Female,Electronic accessories,43.0,4,2019-01-31,20:48:00,eWallet,172.0,8.6,7.6,1,31,3,20
+967,A,Cairo,Member,Female,Food and beverages,14.23,5,2019-02-01,10:08:00,Credit card,71.15,3.5575,4.4,2,1,4,10
+547,C,Alexandria,Normal,Female,Electronic accessories,23.07,9,2019-02-01,11:27:00,Cash,207.63,10.3815,4.9,2,1,4,11
+5,A,Cairo,Member,Male,Sports and travel,69.52,7,2019-02-01,15:10:00,Credit card,486.64,24.332,8.5,2,1,4,15
+317,C,Alexandria,Member,Female,Food and beverages,87.48,6,2019-02-01,18:43:00,eWallet,524.88,26.244,5.1,2,1,4,18
+429,A,Cairo,Member,Female,Health and beauty,77.68,4,2019-02-01,19:54:00,Cash,310.72,15.536,8.4,2,1,4,19
+161,C,Alexandria,Member,Female,Home and lifestyle,80.79,9,2019-02-01,20:31:00,Credit card,727.11,36.3555,9.5,2,1,4,20
+551,C,Alexandria,Member,Male,Home and lifestyle,56.11,2,2019-02-02,10:11:00,Cash,112.22,5.611,6.3,2,2,5,10
+753,C,Alexandria,Normal,Female,Electronic accessories,35.49,6,2019-02-02,12:40:00,Cash,212.94,10.647,4.1,2,2,5,12
+345,C,Alexandria,Normal,Female,Fashion accessories,95.42,4,2019-02-02,13:23:00,eWallet,381.68,19.084,6.4,2,2,5,13
+822,C,Alexandria,Member,Female,Fashion accessories,83.35,2,2019-02-02,14:05:00,Credit card,166.7,8.335,9.5,2,2,5,14
+926,B,Ismailia,Member,Male,Food and beverages,46.55,9,2019-02-02,15:34:00,eWallet,418.95,20.9475,6.4,2,2,5,15
+397,A,Cairo,Member,Female,Sports and travel,51.52,8,2019-02-02,15:47:00,Cash,412.16,20.608,9.6,2,2,5,15
+361,C,Alexandria,Member,Female,Food and beverages,38.42,1,2019-02-02,16:33:00,Cash,38.42,1.921,8.6,2,2,5,16
+380,A,Cairo,Member,Male,Fashion accessories,43.13,10,2019-02-02,18:31:00,Credit card,431.3,21.565,5.5,2,2,5,18
+344,B,Ismailia,Normal,Male,Home and lifestyle,93.87,8,2019-02-02,18:42:00,Credit card,750.96,37.548,8.3,2,2,5,18
+353,A,Cairo,Member,Female,Health and beauty,18.33,1,2019-02-02,18:50:00,Cash,18.33,0.9165,4.3,2,2,5,18
+118,B,Ismailia,Member,Female,Electronic accessories,26.26,7,2019-02-02,19:40:00,Cash,183.82,9.191,9.9,2,2,5,19
+530,C,Alexandria,Normal,Male,Food and beverages,65.97,8,2019-02-02,20:29:00,Cash,527.76,26.388,8.4,2,2,5,20
+394,B,Ismailia,Normal,Female,Fashion accessories,25.56,7,2019-02-02,20:42:00,Cash,178.92,8.946,7.1,2,2,5,20
+674,A,Cairo,Normal,Female,Food and beverages,10.96,10,2019-02-02,20:48:00,eWallet,109.6,5.48,6.0,2,2,5,20
+284,C,Alexandria,Normal,Female,Sports and travel,73.95,4,2019-02-03,10:02:00,Cash,295.8,14.79,6.1,2,3,6,10
+285,C,Alexandria,Member,Male,Food and beverages,91.4,7,2019-02-03,10:19:00,Cash,639.8,31.99,9.5,2,3,6,10
+596,A,Cairo,Normal,Female,Food and beverages,27.28,5,2019-02-03,10:31:00,Credit card,136.4,6.82,8.6,2,3,6,10
+427,A,Cairo,Member,Male,Food and beverages,67.45,10,2019-02-03,11:25:00,eWallet,674.5,33.725,4.2,2,3,6,11
+278,B,Ismailia,Normal,Female,Sports and travel,42.97,3,2019-02-03,11:46:00,Cash,128.91,6.4455,9.3,2,3,6,11
+307,B,Ismailia,Member,Female,Sports and travel,55.07,9,2019-02-03,13:40:00,eWallet,495.63,24.7815,10.0,2,3,6,13
+105,B,Ismailia,Member,Male,Food and beverages,47.16,5,2019-02-03,14:35:00,Credit card,235.8,11.79,6.0,2,3,6,14
+410,A,Cairo,Member,Female,Home and lifestyle,94.88,7,2019-02-03,14:38:00,Cash,664.16,33.208,4.2,2,3,6,14
+666,C,Alexandria,Normal,Male,Food and beverages,40.52,5,2019-02-03,15:19:00,Cash,202.6,10.13,4.5,2,3,6,15
+215,B,Ismailia,Member,Male,Sports and travel,73.97,1,2019-02-03,15:53:00,Credit card,73.97,3.6985,5.4,2,3,6,15
+571,A,Cairo,Normal,Male,Fashion accessories,77.02,5,2019-02-03,15:59:00,Cash,385.1,19.255,5.5,2,3,6,15
+754,C,Alexandria,Normal,Female,Sports and travel,49.33,10,2019-02-03,16:40:00,Credit card,493.3,24.665,9.4,2,3,6,16
+795,A,Cairo,Member,Male,Home and lifestyle,72.78,10,2019-02-03,17:24:00,Cash,727.8,36.39,7.3,2,3,6,17
+713,B,Ismailia,Member,Male,Fashion accessories,53.78,1,2019-02-03,20:13:00,eWallet,53.78,2.689,4.7,2,3,6,20
+802,A,Cairo,Member,Female,Electronic accessories,25.22,7,2019-02-04,10:23:00,Cash,176.54,8.827,8.2,2,4,0,10
+424,A,Cairo,Member,Male,Electronic accessories,71.95,1,2019-02-04,12:14:00,Cash,71.95,3.5975,7.3,2,4,0,12
+200,C,Alexandria,Normal,Female,Health and beauty,13.85,9,2019-02-04,12:50:00,eWallet,124.65,6.2325,6.0,2,4,0,12
+647,B,Ismailia,Member,Female,Home and lifestyle,77.68,9,2019-02-04,13:21:00,eWallet,699.12,34.956,9.8,2,4,0,13
+160,C,Alexandria,Member,Male,Home and lifestyle,13.98,1,2019-02-04,13:38:00,eWallet,13.98,0.699,9.8,2,4,0,13
+506,A,Cairo,Normal,Female,Fashion accessories,48.63,4,2019-02-04,15:44:00,eWallet,194.52,9.726,7.6,2,4,0,15
+379,A,Cairo,Normal,Male,Electronic accessories,74.58,7,2019-02-04,16:09:00,Credit card,522.06,26.103,9.0,2,4,0,16
+728,A,Cairo,Normal,Female,Sports and travel,43.06,5,2019-02-04,16:38:00,eWallet,215.3,10.765,7.7,2,4,0,16
+414,B,Ismailia,Member,Male,Food and beverages,23.34,4,2019-02-04,18:53:00,eWallet,93.36,4.668,7.4,2,4,0,18
+112,B,Ismailia,Member,Female,Fashion accessories,72.04,2,2019-02-04,19:38:00,Cash,144.08,7.204,9.5,2,4,0,19
+58,B,Ismailia,Normal,Female,Food and beverages,67.77,1,2019-02-04,20:43:00,Credit card,67.77,3.3885,6.5,2,4,0,20
+774,A,Cairo,Member,Male,Home and lifestyle,25.91,6,2019-02-05,10:16:00,eWallet,155.46,7.773,8.7,2,5,1,10
+386,C,Alexandria,Member,Female,Food and beverages,47.27,6,2019-02-05,10:17:00,Cash,283.62,14.181,8.8,2,5,1,10
+123,C,Alexandria,Member,Female,Health and beauty,98.21,3,2019-02-05,10:41:00,Credit card,294.63,14.7315,7.8,2,5,1,10
+471,B,Ismailia,Member,Female,Sports and travel,16.49,2,2019-02-05,11:32:00,eWallet,32.98,1.649,4.6,2,5,1,11
+977,A,Cairo,Member,Female,Sports and travel,75.2,3,2019-02-05,11:51:00,eWallet,225.6,11.28,4.8,2,5,1,11
+122,B,Ismailia,Normal,Female,Health and beauty,58.24,9,2019-02-05,12:34:00,Cash,524.16,26.208,9.7,2,5,1,12
+255,A,Cairo,Member,Female,Fashion accessories,30.62,1,2019-02-05,14:14:00,Credit card,30.62,1.531,4.1,2,5,1,14
+341,B,Ismailia,Member,Female,Food and beverages,42.82,9,2019-02-05,15:26:00,Credit card,385.38,19.269,8.9,2,5,1,15
+280,A,Cairo,Member,Male,Electronic accessories,20.89,2,2019-02-05,18:45:00,Cash,41.78,2.089,9.8,2,5,1,18
+86,C,Alexandria,Member,Male,Fashion accessories,69.33,2,2019-02-05,19:05:00,eWallet,138.66,6.933,9.7,2,5,1,19
+282,A,Cairo,Member,Male,Food and beverages,87.9,1,2019-02-05,19:42:00,eWallet,87.9,4.395,6.7,2,5,1,19
+292,C,Alexandria,Member,Female,Health and beauty,68.6,10,2019-02-05,19:57:00,Cash,686.0,34.3,9.1,2,5,1,19
+464,C,Alexandria,Normal,Female,Food and beverages,52.42,1,2019-02-06,10:22:00,Credit card,52.42,2.621,6.3,2,6,2,10
+91,C,Alexandria,Member,Female,Food and beverages,99.42,4,2019-02-06,10:42:00,eWallet,397.68,19.884,7.5,2,6,2,10
+635,A,Cairo,Member,Female,Home and lifestyle,37.44,6,2019-02-06,13:55:00,Credit card,224.64,11.232,5.9,2,6,2,13
+51,C,Alexandria,Member,Female,Health and beauty,28.5,8,2019-02-06,14:24:00,Cash,228.0,11.4,6.6,2,6,2,14
+974,B,Ismailia,Member,Male,Health and beauty,25.9,10,2019-02-06,14:51:00,eWallet,259.0,12.95,8.7,2,6,2,14
+885,B,Ismailia,Member,Male,Electronic accessories,50.45,6,2019-02-06,15:16:00,Credit card,302.7,15.135,8.9,2,6,2,15
+769,B,Ismailia,Member,Female,Food and beverages,20.01,9,2019-02-06,15:47:00,eWallet,180.09,9.0045,4.1,2,6,2,15
+614,C,Alexandria,Member,Male,Fashion accessories,96.98,4,2019-02-06,17:20:00,eWallet,387.92,19.396,9.4,2,6,2,17
+311,B,Ismailia,Member,Female,Fashion accessories,14.48,4,2019-02-06,18:07:00,eWallet,57.92,2.896,4.5,2,6,2,18
+190,A,Cairo,Normal,Female,Health and beauty,35.68,5,2019-02-06,18:33:00,Credit card,178.4,8.92,6.6,2,6,2,18
+340,C,Alexandria,Member,Male,Home and lifestyle,35.81,5,2019-02-06,18:44:00,eWallet,179.05,8.9525,7.9,2,6,2,18
+945,B,Ismailia,Normal,Male,Electronic accessories,22.95,10,2019-02-06,19:20:00,eWallet,229.5,11.475,8.2,2,6,2,19
+502,C,Alexandria,Normal,Male,Health and beauty,89.75,1,2019-02-06,20:05:00,Credit card,89.75,4.4875,6.6,2,6,2,20
+444,A,Cairo,Normal,Female,Home and lifestyle,93.12,8,2019-02-07,10:09:00,Cash,744.96,37.248,6.8,2,7,3,10
+399,A,Cairo,Normal,Female,Electronic accessories,28.96,1,2019-02-07,10:18:00,Credit card,28.96,1.448,6.2,2,7,3,10
+661,A,Cairo,Normal,Male,Health and beauty,89.6,8,2019-02-07,11:28:00,eWallet,716.8,35.84,6.6,2,7,3,11
+898,B,Ismailia,Member,Female,Food and beverages,54.36,10,2019-02-07,11:28:00,Credit card,543.6,27.18,6.1,2,7,3,11
+590,C,Alexandria,Normal,Male,Home and lifestyle,16.67,7,2019-02-07,11:36:00,eWallet,116.69,5.8345,7.4,2,7,3,11
+646,C,Alexandria,Normal,Female,Fashion accessories,60.41,8,2019-02-07,12:23:00,eWallet,483.28,24.164,9.6,2,7,3,12
+351,C,Alexandria,Member,Male,Electronic accessories,65.94,4,2019-02-07,13:05:00,Credit card,263.76,13.188,6.9,2,7,3,13
+561,A,Cairo,Member,Female,Sports and travel,45.58,1,2019-02-07,14:13:00,Cash,45.58,2.279,9.8,2,7,3,14
+850,C,Alexandria,Member,Male,Sports and travel,10.17,1,2019-02-07,14:15:00,Cash,10.17,0.5085,5.9,2,7,3,14
+681,C,Alexandria,Normal,Male,Health and beauty,58.95,10,2019-02-07,14:27:00,eWallet,589.5,29.475,8.1,2,7,3,14
+883,C,Alexandria,Normal,Female,Electronic accessories,40.86,8,2019-02-07,14:38:00,Credit card,326.88,16.344,6.5,2,7,3,14
+11,B,Ismailia,Normal,Female,Electronic accessories,57.91,8,2019-02-07,15:06:00,Cash,463.28,23.164,8.1,2,7,3,15
+408,B,Ismailia,Normal,Male,Electronic accessories,46.02,6,2019-02-07,15:55:00,Cash,276.12,13.806,7.1,2,7,3,15
+182,A,Cairo,Normal,Male,Food and beverages,43.19,10,2019-02-07,16:48:00,eWallet,431.9,21.595,8.2,2,7,3,16
+672,C,Alexandria,Member,Female,Fashion accessories,43.46,6,2019-02-07,17:55:00,eWallet,260.76,13.038,8.5,2,7,3,17
+801,C,Alexandria,Normal,Male,Fashion accessories,86.13,2,2019-02-07,17:59:00,Cash,172.26,8.613,8.2,2,7,3,17
+130,C,Alexandria,Normal,Female,Food and beverages,16.48,6,2019-02-07,18:23:00,eWallet,98.88,4.944,9.9,2,7,3,18
+963,B,Ismailia,Normal,Male,Home and lifestyle,22.02,9,2019-02-07,18:48:00,Cash,198.18,9.909,6.8,2,7,3,18
+342,B,Ismailia,Normal,Female,Fashion accessories,63.71,5,2019-02-07,19:30:00,eWallet,318.55,15.9275,8.5,2,7,3,19
+522,B,Ismailia,Normal,Male,Electronic accessories,79.39,10,2019-02-07,20:24:00,Cash,793.9,39.695,6.2,2,7,3,20
+339,A,Cairo,Normal,Male,Sports and travel,86.31,7,2019-02-08,10:37:00,eWallet,604.17,30.2085,5.3,2,8,4,10
+782,B,Ismailia,Member,Male,Home and lifestyle,46.47,4,2019-02-08,10:53:00,Cash,185.88,9.294,7.0,2,8,4,10
+85,B,Ismailia,Normal,Female,Home and lifestyle,16.37,6,2019-02-08,10:58:00,Cash,98.22,4.911,7.0,2,8,4,10
+544,B,Ismailia,Normal,Female,Sports and travel,90.28,9,2019-02-08,11:15:00,eWallet,812.52,40.626,7.2,2,8,4,11
+821,A,Cairo,Member,Male,Fashion accessories,19.7,1,2019-02-08,11:39:00,eWallet,19.7,0.985,9.5,2,8,4,11
+886,C,Alexandria,Member,Female,Sports and travel,64.97,5,2019-02-08,12:52:00,Credit card,324.85,16.2425,6.5,2,8,4,12
+205,C,Alexandria,Member,Female,Fashion accessories,97.21,10,2019-02-08,13:00:00,Credit card,972.1,48.605,8.7,2,8,4,13
+312,B,Ismailia,Member,Female,Sports and travel,69.12,6,2019-02-08,13:03:00,Cash,414.72,20.736,5.6,2,8,4,13
+423,C,Alexandria,Member,Female,Health and beauty,37.15,7,2019-02-08,13:12:00,Credit card,260.05,13.0025,7.7,2,8,4,13
+904,B,Ismailia,Normal,Male,Home and lifestyle,31.75,4,2019-02-08,15:26:00,Cash,127.0,6.35,8.6,2,8,4,15
+683,B,Ismailia,Normal,Male,Fashion accessories,33.52,1,2019-02-08,15:31:00,Cash,33.52,1.676,6.7,2,8,4,15
+721,A,Cairo,Normal,Male,Fashion accessories,98.98,10,2019-02-08,16:20:00,Credit card,989.8,49.49,8.7,2,8,4,16
+26,C,Alexandria,Normal,Male,Fashion accessories,64.26,7,2019-02-09,10:00:00,Cash,449.82,22.491,5.7,2,9,5,10
+805,C,Alexandria,Normal,Male,Food and beverages,21.58,1,2019-02-09,10:02:00,eWallet,21.58,1.079,7.2,2,9,5,10
+407,C,Alexandria,Member,Female,Food and beverages,21.08,3,2019-02-09,10:25:00,Cash,63.24,3.162,7.3,2,9,5,10
+432,A,Cairo,Member,Female,Sports and travel,22.24,10,2019-02-09,11:00:00,Cash,222.4,11.12,4.2,2,9,5,11
+116,B,Ismailia,Member,Male,Home and lifestyle,65.91,6,2019-02-09,11:45:00,Cash,395.46,19.773,5.7,2,9,5,11
+496,B,Ismailia,Normal,Male,Home and lifestyle,45.97,4,2019-02-09,12:02:00,eWallet,183.88,9.194,5.1,2,9,5,12
+968,C,Alexandria,Normal,Female,Electronic accessories,12.45,6,2019-02-09,13:11:00,Cash,74.7,3.735,4.1,2,9,5,13
+767,A,Cairo,Member,Male,Food and beverages,31.84,1,2019-02-09,13:22:00,Cash,31.84,1.592,7.7,2,9,5,13
+622,C,Alexandria,Member,Female,Home and lifestyle,15.95,6,2019-02-09,17:15:00,Credit card,95.7,4.785,5.1,2,9,5,17
+439,C,Alexandria,Normal,Male,Health and beauty,84.61,10,2019-02-09,18:58:00,Credit card,846.1,42.305,8.8,2,9,5,18
+48,A,Cairo,Member,Male,Food and beverages,35.04,9,2019-02-09,19:17:00,eWallet,315.36,15.768,4.6,2,9,5,19
+957,B,Ismailia,Member,Female,Electronic accessories,81.4,3,2019-02-09,19:43:00,Cash,244.2,12.21,4.8,2,9,5,19
+809,B,Ismailia,Normal,Male,Fashion accessories,57.27,3,2019-02-09,20:31:00,eWallet,171.81,8.5905,6.5,2,9,5,20
+718,A,Cairo,Member,Female,Fashion accessories,30.14,10,2019-02-10,12:28:00,eWallet,301.4,15.07,9.2,2,10,6,12
+707,B,Ismailia,Member,Male,Electronic accessories,18.93,6,2019-02-10,12:45:00,Credit card,113.58,5.679,8.1,2,10,6,12
+374,A,Cairo,Normal,Male,Home and lifestyle,74.07,1,2019-02-10,12:50:00,eWallet,74.07,3.7035,9.9,2,10,6,12
+559,A,Cairo,Member,Female,Fashion accessories,53.65,7,2019-02-10,12:56:00,eWallet,375.55,18.7775,5.2,2,10,6,12
+433,B,Ismailia,Member,Male,Home and lifestyle,36.91,7,2019-02-10,13:51:00,eWallet,258.37,12.9185,6.7,2,10,6,13
+110,C,Alexandria,Member,Female,Fashion accessories,73.38,7,2019-02-10,13:56:00,Cash,513.66,25.683,9.5,2,10,6,13
+70,A,Cairo,Member,Female,Food and beverages,44.59,5,2019-02-10,15:10:00,Cash,222.95,11.1475,8.5,2,10,6,15
+917,C,Alexandria,Normal,Female,Health and beauty,33.47,2,2019-02-10,15:43:00,eWallet,66.94,3.347,6.7,2,10,6,15
+347,B,Ismailia,Member,Male,Electronic accessories,48.09,3,2019-02-10,18:23:00,Credit card,144.27,7.2135,7.8,2,10,6,18
+729,B,Ismailia,Normal,Female,Sports and travel,34.84,4,2019-02-10,18:36:00,Cash,139.36,6.968,7.4,2,10,6,18
+146,C,Alexandria,Member,Female,Electronic accessories,78.13,10,2019-02-10,20:51:00,Cash,781.3,39.065,4.4,2,10,6,20
+923,B,Ismailia,Member,Female,Food and beverages,77.2,10,2019-02-11,10:38:00,Credit card,772.0,38.6,5.6,2,11,0,10
+225,B,Ismailia,Normal,Female,Home and lifestyle,77.04,3,2019-02-11,10:39:00,Credit card,231.12,11.556,7.2,2,11,0,10
+393,B,Ismailia,Normal,Female,Health and beauty,84.09,9,2019-02-11,10:54:00,Cash,756.81,37.8405,8.0,2,11,0,10
+519,A,Cairo,Normal,Male,Home and lifestyle,80.08,3,2019-02-11,15:29:00,Cash,240.24,12.012,5.4,2,11,0,15
+959,C,Alexandria,Normal,Male,Food and beverages,89.2,10,2019-02-11,15:42:00,Credit card,892.0,44.6,4.4,2,11,0,15
+525,A,Cairo,Normal,Female,Sports and travel,94.76,4,2019-02-11,16:06:00,eWallet,379.04,18.952,7.8,2,11,0,16
+866,C,Alexandria,Normal,Male,Fashion accessories,62.12,10,2019-02-11,16:19:00,Cash,621.2,31.06,5.9,2,11,0,16
+377,C,Alexandria,Member,Male,Home and lifestyle,86.69,5,2019-02-11,18:38:00,eWallet,433.45,21.6725,9.4,2,11,0,18
+327,A,Cairo,Normal,Female,Electronic accessories,46.95,5,2019-02-12,10:25:00,eWallet,234.75,11.7375,7.1,2,12,1,10
+541,B,Ismailia,Normal,Male,Fashion accessories,94.87,8,2019-02-12,12:58:00,eWallet,758.96,37.948,8.7,2,12,1,12
+338,A,Cairo,Member,Female,Sports and travel,71.63,2,2019-02-12,14:33:00,eWallet,143.26,7.163,8.8,2,12,1,14
+670,C,Alexandria,Member,Female,Food and beverages,87.1,10,2019-02-12,14:45:00,Credit card,871.0,43.55,9.9,2,12,1,14
+253,B,Ismailia,Member,Male,Home and lifestyle,60.38,10,2019-02-12,16:19:00,Cash,603.8,30.19,6.0,2,12,1,16
+985,C,Alexandria,Member,Male,Fashion accessories,52.35,1,2019-02-12,17:49:00,Cash,52.35,2.6175,4.0,2,12,1,17
+233,A,Cairo,Normal,Male,Health and beauty,25.43,6,2019-02-12,19:01:00,eWallet,152.58,7.629,7.0,2,12,1,19
+516,B,Ismailia,Member,Female,Electronic accessories,39.48,1,2019-02-12,19:43:00,Cash,39.48,1.974,6.5,2,12,1,19
+43,C,Alexandria,Normal,Female,Fashion accessories,22.51,7,2019-02-13,10:50:00,Credit card,157.57,7.8785,4.8,2,13,2,10
+76,B,Ismailia,Member,Female,Sports and travel,20.18,4,2019-02-13,12:14:00,Credit card,80.72,4.036,5.0,2,13,2,12
+56,A,Cairo,Member,Male,Electronic accessories,32.25,4,2019-02-13,12:38:00,eWallet,129.0,6.45,6.5,2,13,2,12
+358,B,Ismailia,Normal,Male,Sports and travel,13.69,6,2019-02-13,13:59:00,Cash,82.14,4.107,6.3,2,13,2,13
+294,C,Alexandria,Member,Female,Fashion accessories,92.98,2,2019-02-13,15:06:00,Credit card,185.96,9.298,8.0,2,13,2,15
+834,B,Ismailia,Member,Female,Fashion accessories,29.56,5,2019-02-13,16:59:00,Cash,147.8,7.39,6.9,2,13,2,16
+542,C,Alexandria,Member,Female,Food and beverages,14.87,2,2019-02-13,18:15:00,Credit card,29.74,1.487,8.9,2,13,2,18
+563,A,Cairo,Member,Male,Electronic accessories,76.82,1,2019-02-13,18:27:00,eWallet,76.82,3.841,7.2,2,13,2,18
+158,C,Alexandria,Member,Male,Food and beverages,27.66,10,2019-02-14,11:26:00,Credit card,276.6,13.83,8.9,2,14,3,11
+8,B,Ismailia,Member,Female,Sports and travel,60.08,7,2019-02-14,11:36:00,Credit card,420.56,21.028,4.5,2,14,3,11
+536,C,Alexandria,Normal,Female,Health and beauty,58.32,2,2019-02-14,12:42:00,eWallet,116.64,5.832,6.0,2,14,3,12
+941,B,Ismailia,Member,Male,Health and beauty,75.74,4,2019-02-14,14:35:00,Cash,302.96,15.148,7.6,2,14,3,14
+515,A,Cairo,Member,Male,Health and beauty,91.3,1,2019-02-14,14:42:00,eWallet,91.3,4.565,9.2,2,14,3,14
+55,A,Cairo,Normal,Male,Sports and travel,44.65,3,2019-02-14,15:04:00,Cash,133.95,6.6975,6.2,2,14,3,15
+665,A,Cairo,Normal,Female,Electronic accessories,99.56,8,2019-02-14,17:03:00,Credit card,796.48,39.824,5.2,2,14,3,17
+79,C,Alexandria,Member,Male,Food and beverages,99.37,2,2019-02-14,17:29:00,Cash,198.74,9.937,5.2,2,14,3,17
+251,A,Cairo,Normal,Female,Food and beverages,67.1,3,2019-02-15,10:36:00,Cash,201.3,10.065,7.5,2,15,4,10
+152,C,Alexandria,Member,Female,Electronic accessories,98.84,1,2019-02-15,11:21:00,Cash,98.84,4.942,8.4,2,15,4,11
+176,C,Alexandria,Normal,Female,Electronic accessories,32.8,10,2019-02-15,12:12:00,Cash,328.0,16.4,6.2,2,15,4,12
+532,C,Alexandria,Member,Female,Fashion accessories,80.48,3,2019-02-15,12:31:00,Cash,241.44,12.072,8.1,2,15,4,12
+367,B,Ismailia,Member,Male,Home and lifestyle,17.77,5,2019-02-15,12:42:00,Credit card,88.85,4.4425,5.4,2,15,4,12
+148,B,Ismailia,Normal,Female,Fashion accessories,72.84,7,2019-02-15,12:44:00,Cash,509.88,25.494,8.4,2,15,4,12
+61,A,Cairo,Normal,Male,Food and beverages,52.2,3,2019-02-15,13:30:00,Credit card,156.6,7.83,9.5,2,15,4,13
+155,B,Ismailia,Normal,Male,Health and beauty,57.59,6,2019-02-15,13:51:00,Cash,345.54,17.277,5.1,2,15,4,13
+747,B,Ismailia,Member,Female,Food and beverages,77.4,9,2019-02-15,14:15:00,Credit card,696.6,34.83,4.5,2,15,4,14
+949,C,Alexandria,Member,Female,Fashion accessories,99.3,10,2019-02-15,14:53:00,Credit card,993.0,49.65,6.6,2,15,4,14
+485,A,Cairo,Normal,Male,Fashion accessories,51.94,3,2019-02-15,15:21:00,Cash,155.82,7.791,7.9,2,15,4,15
+37,A,Cairo,Normal,Female,Home and lifestyle,69.96,8,2019-02-15,17:01:00,Credit card,559.68,27.984,6.4,2,15,4,17
+552,C,Alexandria,Normal,Male,Health and beauty,33.64,8,2019-02-15,17:10:00,Credit card,269.12,13.456,9.3,2,15,4,17
+277,B,Ismailia,Member,Male,Sports and travel,88.31,1,2019-02-15,17:38:00,Credit card,88.31,4.4155,5.2,2,15,4,17
+227,C,Alexandria,Member,Female,Sports and travel,24.74,3,2019-02-15,17:47:00,Credit card,74.22,3.711,10.0,2,15,4,17
+336,A,Cairo,Normal,Male,Health and beauty,15.26,6,2019-02-15,18:03:00,eWallet,91.56,4.578,9.8,2,15,4,18
+375,C,Alexandria,Member,Male,Health and beauty,68.55,4,2019-02-15,20:21:00,Credit card,274.2,13.71,9.2,2,15,4,20
+972,B,Ismailia,Member,Female,Health and beauty,76.9,7,2019-02-15,20:21:00,Cash,538.3,26.915,7.7,2,15,4,20
+411,B,Ismailia,Normal,Female,Electronic accessories,88.25,9,2019-02-15,20:51:00,Credit card,794.25,39.7125,7.6,2,15,4,20
+970,A,Cairo,Member,Male,Food and beverages,24.82,7,2019-02-16,10:33:00,Credit card,173.74,8.687,7.1,2,16,5,10
+996,B,Ismailia,Normal,Female,Fashion accessories,36.51,9,2019-02-16,10:52:00,Cash,328.59,16.4295,4.2,2,16,5,10
+169,B,Ismailia,Normal,Male,Sports and travel,51.91,10,2019-02-16,12:21:00,Cash,519.1,25.955,8.2,2,16,5,12
+384,C,Alexandria,Member,Female,Health and beauty,47.71,6,2019-02-16,14:19:00,eWallet,286.26,14.313,4.4,2,16,5,14
+618,B,Ismailia,Member,Male,Fashion accessories,91.35,1,2019-02-16,15:42:00,Cash,91.35,4.5675,6.8,2,16,5,15
+209,C,Alexandria,Member,Male,Electronic accessories,12.05,5,2019-02-16,15:53:00,eWallet,60.25,3.0125,5.5,2,16,5,15
+599,C,Alexandria,Member,Female,Fashion accessories,97.79,7,2019-02-16,17:30:00,eWallet,684.53,34.2265,4.9,2,16,5,17
+32,B,Ismailia,Member,Male,Fashion accessories,60.18,4,2019-02-16,18:04:00,Credit card,240.72,12.036,9.4,2,16,5,18
+637,A,Cairo,Member,Male,Food and beverages,80.96,8,2019-02-17,11:12:00,Credit card,647.68,32.384,7.4,2,17,6,11
+663,A,Cairo,Normal,Male,Electronic accessories,34.56,5,2019-02-17,11:15:00,eWallet,172.8,8.64,9.9,2,17,6,11
+858,A,Cairo,Normal,Male,Fashion accessories,45.38,3,2019-02-17,13:34:00,Credit card,136.14,6.807,7.2,2,17,6,13
+604,B,Ismailia,Member,Male,Electronic accessories,87.45,6,2019-02-17,14:40:00,Credit card,524.7,26.235,8.8,2,17,6,14
+852,B,Ismailia,Member,Female,Electronic accessories,35.74,8,2019-02-17,15:28:00,eWallet,285.92,14.296,4.9,2,17,6,15
+28,A,Cairo,Member,Female,Health and beauty,92.09,3,2019-02-17,16:27:00,Cash,276.27,13.8135,4.2,2,17,6,16
+117,C,Alexandria,Member,Female,Sports and travel,67.99,7,2019-02-17,16:50:00,eWallet,475.93,23.7965,5.7,2,17,6,16
+874,A,Cairo,Member,Female,Home and lifestyle,88.79,8,2019-02-17,17:09:00,Cash,710.32,35.516,4.1,2,17,6,17
+659,A,Cairo,Normal,Male,Food and beverages,32.9,3,2019-02-17,17:27:00,Credit card,98.7,4.935,9.1,2,17,6,17
+359,C,Alexandria,Normal,Male,Electronic accessories,11.81,5,2019-02-17,18:06:00,Cash,59.05,2.9525,9.4,2,17,6,18
+19,C,Alexandria,Normal,Female,Sports and travel,46.66,9,2019-02-17,19:11:00,eWallet,419.94,20.997,5.3,2,17,6,19
+899,A,Cairo,Normal,Male,Sports and travel,98.09,9,2019-02-17,19:41:00,Cash,882.81,44.1405,9.3,2,17,6,19
+396,C,Alexandria,Member,Female,Food and beverages,71.39,5,2019-02-17,19:57:00,Credit card,356.95,17.8475,5.5,2,17,6,19
+689,C,Alexandria,Member,Female,Electronic accessories,60.95,1,2019-02-18,11:40:00,eWallet,60.95,3.0475,5.9,2,18,0,11
+935,A,Cairo,Member,Female,Fashion accessories,88.34,7,2019-02-18,13:28:00,Cash,618.38,30.919,6.6,2,18,0,13
+830,B,Ismailia,Normal,Female,Health and beauty,14.76,2,2019-02-18,14:42:00,eWallet,29.52,1.476,4.3,2,18,0,14
+313,A,Cairo,Member,Female,Home and lifestyle,34.42,6,2019-02-18,15:39:00,Cash,206.52,10.326,9.8,2,18,0,15
+854,C,Alexandria,Member,Male,Health and beauty,44.07,4,2019-02-18,16:28:00,eWallet,176.28,8.814,8.4,2,18,0,16
+617,C,Alexandria,Normal,Male,Fashion accessories,90.22,3,2019-02-18,19:39:00,Cash,270.66,13.533,6.2,2,18,0,19
+217,A,Cairo,Member,Female,Electronic accessories,62.48,1,2019-02-18,20:29:00,Cash,62.48,3.124,4.7,2,18,0,20
+385,A,Cairo,Normal,Female,Fashion accessories,98.48,2,2019-02-19,10:12:00,eWallet,196.96,9.848,9.2,2,19,1,10
+988,C,Alexandria,Normal,Male,Electronic accessories,71.89,8,2019-02-19,11:33:00,eWallet,575.12,28.756,5.5,2,19,1,11
+436,A,Cairo,Normal,Male,Health and beauty,50.79,5,2019-02-19,14:53:00,Credit card,253.95,12.6975,5.3,2,19,1,14
+355,A,Cairo,Member,Female,Food and beverages,98.66,9,2019-02-19,15:07:00,Cash,887.94,44.397,8.4,2,19,1,15
+90,C,Alexandria,Normal,Female,Electronic accessories,77.63,9,2019-02-19,15:14:00,eWallet,698.67,34.9335,7.2,2,19,1,15
+206,C,Alexandria,Normal,Female,Food and beverages,41.24,4,2019-02-19,16:23:00,Cash,164.96,8.248,7.1,2,19,1,16
+650,C,Alexandria,Normal,Male,Health and beauty,21.8,8,2019-02-19,19:24:00,Cash,174.4,8.72,8.3,2,19,1,19
+818,B,Ismailia,Member,Female,Sports and travel,64.08,7,2019-02-19,19:29:00,Credit card,448.56,22.428,7.3,2,19,1,19
+961,A,Cairo,Member,Male,Electronic accessories,69.58,9,2019-02-19,19:38:00,Credit card,626.22,31.311,7.8,2,19,1,19
+845,B,Ismailia,Member,Male,Food and beverages,57.74,3,2019-02-20,13:06:00,eWallet,173.22,8.661,7.7,2,20,2,13
+934,C,Alexandria,Member,Female,Home and lifestyle,86.27,1,2019-02-20,13:24:00,eWallet,86.27,4.3135,7.0,2,20,2,13
+726,B,Ismailia,Member,Female,Food and beverages,54.84,3,2019-02-20,13:27:00,Credit card,164.52,8.226,5.9,2,20,2,13
+261,B,Ismailia,Member,Male,Sports and travel,31.99,10,2019-02-20,15:18:00,Credit card,319.9,15.995,9.9,2,20,2,15
+539,B,Ismailia,Normal,Male,Food and beverages,39.9,10,2019-02-20,15:24:00,Credit card,399.0,19.95,5.9,2,20,2,15
+538,A,Cairo,Member,Male,Home and lifestyle,37.69,2,2019-02-20,15:29:00,eWallet,75.38,3.769,9.5,2,20,2,15
+847,A,Cairo,Member,Male,Food and beverages,92.29,5,2019-02-20,15:55:00,Credit card,461.45,23.0725,9.0,2,20,2,15
+762,A,Cairo,Normal,Female,Health and beauty,32.32,10,2019-02-20,16:49:00,Credit card,323.2,16.16,10.0,2,20,2,16
+487,B,Ismailia,Normal,Male,Health and beauty,66.68,5,2019-02-20,18:01:00,Cash,333.4,16.67,7.6,2,20,2,18
+451,B,Ismailia,Normal,Male,Food and beverages,60.3,4,2019-02-20,18:43:00,Cash,241.2,12.06,5.8,2,20,2,18
+360,C,Alexandria,Normal,Female,Health and beauty,83.66,5,2019-02-21,10:26:00,Cash,418.3,20.915,7.2,2,21,3,10
+750,C,Alexandria,Normal,Female,Sports and travel,98.8,2,2019-02-21,11:39:00,Cash,197.6,9.88,7.7,2,21,3,11
+218,C,Alexandria,Member,Female,Fashion accessories,12.54,1,2019-02-21,12:38:00,Cash,12.54,0.627,8.2,2,21,3,12
+493,B,Ismailia,Member,Male,Health and beauty,39.91,3,2019-02-21,12:40:00,eWallet,119.73,5.9865,9.3,2,21,3,12
+273,A,Cairo,Member,Female,Electronic accessories,94.64,3,2019-02-21,16:55:00,Cash,283.92,14.196,5.5,2,21,3,16
+202,B,Ismailia,Member,Male,Fashion accessories,73.82,4,2019-02-21,18:31:00,Cash,295.28,14.764,6.7,2,21,3,18
+478,C,Alexandria,Member,Female,Food and beverages,30.41,1,2019-02-22,10:36:00,Credit card,30.41,1.5205,8.4,2,22,4,10
+906,B,Ismailia,Normal,Female,Fashion accessories,39.75,5,2019-02-22,10:43:00,eWallet,198.75,9.9375,9.6,2,22,4,10
+589,B,Ismailia,Normal,Female,Fashion accessories,54.31,9,2019-02-22,10:49:00,Cash,488.79,24.4395,8.9,2,22,4,10
+839,B,Ismailia,Normal,Male,Home and lifestyle,68.97,3,2019-02-22,11:26:00,eWallet,206.91,10.3455,8.7,2,22,4,11
+916,C,Alexandria,Member,Female,Home and lifestyle,12.73,2,2019-02-22,12:10:00,Credit card,25.46,1.273,5.2,2,22,4,12
+878,A,Cairo,Member,Female,Electronic accessories,17.42,10,2019-02-22,12:30:00,eWallet,174.2,8.71,7.0,2,22,4,12
+954,A,Cairo,Member,Female,Sports and travel,24.49,10,2019-02-22,15:15:00,Cash,244.9,12.245,8.1,2,22,4,15
+308,A,Cairo,Normal,Male,Home and lifestyle,65.82,1,2019-02-22,15:33:00,Cash,65.82,3.291,4.1,2,22,4,15
+797,C,Alexandria,Normal,Male,Sports and travel,95.49,7,2019-02-22,18:17:00,eWallet,668.43,33.4215,8.7,2,22,4,18
+915,B,Ismailia,Normal,Female,Fashion accessories,47.44,1,2019-02-22,18:19:00,Credit card,47.44,2.372,6.8,2,22,4,18
+724,B,Ismailia,Normal,Male,Fashion accessories,17.49,10,2019-02-22,18:35:00,eWallet,174.9,8.745,6.6,2,22,4,18
+907,B,Ismailia,Member,Female,Electronic accessories,75.59,9,2019-02-23,11:12:00,Cash,680.31,34.0155,8.0,2,23,5,11
+369,B,Ismailia,Normal,Female,Electronic accessories,14.96,8,2019-02-23,12:29:00,Cash,119.68,5.984,8.6,2,23,5,12
+775,C,Alexandria,Normal,Male,Food and beverages,35.89,1,2019-02-23,16:52:00,Credit card,35.89,1.7945,7.9,2,23,5,16
+210,A,Cairo,Member,Female,Food and beverages,73.47,4,2019-02-23,18:30:00,Cash,293.88,14.694,6.0,2,23,5,18
+855,C,Alexandria,Member,Female,Food and beverages,80.36,4,2019-02-23,18:45:00,Credit card,321.44,16.072,8.3,2,23,5,18
+492,C,Alexandria,Member,Male,Sports and travel,58.39,7,2019-02-23,19:49:00,Credit card,408.73,20.4365,8.2,2,23,5,19
+727,B,Ismailia,Member,Female,Food and beverages,98.79,3,2019-02-23,20:00:00,eWallet,296.37,14.8185,6.4,2,23,5,20
+104,B,Ismailia,Normal,Female,Health and beauty,17.97,4,2019-02-23,20:43:00,eWallet,71.88,3.594,6.4,2,23,5,20
+93,A,Cairo,Member,Female,Home and lifestyle,47.68,2,2019-02-24,10:10:00,Credit card,95.36,4.768,4.1,2,24,6,10
+875,C,Alexandria,Normal,Male,Home and lifestyle,55.73,6,2019-02-24,10:55:00,eWallet,334.38,16.719,7.0,2,24,6,10
+264,C,Alexandria,Normal,Female,Home and lifestyle,73.56,10,2019-02-24,11:38:00,eWallet,735.6,36.78,8.0,2,24,6,11
+725,B,Ismailia,Normal,Female,Sports and travel,57.95,6,2019-02-24,13:02:00,Cash,347.7,17.385,5.2,2,24,6,13
+505,C,Alexandria,Member,Female,Health and beauty,10.16,5,2019-02-24,13:08:00,eWallet,50.8,2.54,4.1,2,24,6,13
+326,B,Ismailia,Normal,Female,Food and beverages,26.43,8,2019-02-24,14:26:00,eWallet,211.44,10.572,8.9,2,24,6,14
+792,C,Alexandria,Normal,Male,Electronic accessories,24.74,10,2019-02-24,16:44:00,Cash,247.4,12.37,7.1,2,24,6,16
+350,A,Cairo,Normal,Female,Electronic accessories,40.26,10,2019-02-24,18:06:00,Credit card,402.6,20.13,5.0,2,24,6,18
+171,B,Ismailia,Member,Male,Fashion accessories,83.77,2,2019-02-24,19:57:00,Cash,167.54,8.377,4.6,2,24,6,19
+246,C,Alexandria,Member,Male,Electronic accessories,86.04,5,2019-02-25,11:24:00,eWallet,430.2,21.51,4.8,2,25,0,11
+958,B,Ismailia,Normal,Female,Electronic accessories,52.79,10,2019-02-25,11:58:00,eWallet,527.9,26.395,10.0,2,25,0,11
+583,B,Ismailia,Member,Female,Food and beverages,62.85,4,2019-02-25,13:22:00,eWallet,251.4,12.57,8.7,2,25,0,13
+495,B,Ismailia,Member,Male,Health and beauty,42.57,8,2019-02-25,14:12:00,eWallet,340.56,17.028,5.6,2,25,0,14
+315,A,Cairo,Member,Female,Electronic accessories,68.84,6,2019-02-25,14:36:00,eWallet,413.04,20.652,5.8,2,25,0,14
+789,C,Alexandria,Normal,Male,Food and beverages,48.61,1,2019-02-25,15:31:00,Cash,48.61,2.4305,4.4,2,25,0,15
+756,A,Cairo,Member,Female,Sports and travel,91.41,5,2019-02-25,16:03:00,eWallet,457.05,22.8525,7.1,2,25,0,16
+211,A,Cairo,Normal,Male,Sports and travel,63.69,1,2019-02-25,16:21:00,Cash,63.69,3.1845,6.0,2,25,0,16
+501,B,Ismailia,Normal,Male,Sports and travel,88.45,1,2019-02-25,16:36:00,Credit card,88.45,4.4225,9.5,2,25,0,16
+260,A,Cairo,Normal,Female,Fashion accessories,73.05,4,2019-02-25,17:16:00,Credit card,292.2,14.61,4.9,2,25,0,17
+912,B,Ismailia,Member,Female,Home and lifestyle,82.04,5,2019-02-25,17:16:00,Credit card,410.2,20.51,7.6,2,25,0,17
+662,B,Ismailia,Normal,Male,Health and beauty,62.57,4,2019-02-25,18:37:00,Cash,250.28,12.514,9.5,2,25,0,18
+452,A,Cairo,Member,Female,Food and beverages,99.6,3,2019-02-25,18:45:00,Cash,298.8,14.94,5.8,2,25,0,18
+969,B,Ismailia,Normal,Male,Fashion accessories,94.13,5,2019-02-25,19:39:00,Credit card,470.65,23.5325,4.8,2,25,0,19
+632,B,Ismailia,Member,Male,Electronic accessories,39.75,1,2019-02-25,20:19:00,Cash,39.75,1.9875,6.1,2,25,0,20
+491,A,Cairo,Normal,Male,Health and beauty,65.18,3,2019-02-25,20:35:00,Credit card,195.54,9.777,6.3,2,25,0,20
+458,B,Ismailia,Member,Female,Electronic accessories,90.7,6,2019-02-26,10:52:00,Cash,544.2,27.21,5.3,2,26,1,10
+418,B,Ismailia,Normal,Male,Fashion accessories,99.89,2,2019-02-26,11:48:00,eWallet,199.78,9.989,7.1,2,26,1,11
+745,B,Ismailia,Member,Female,Sports and travel,95.54,4,2019-02-26,11:58:00,eWallet,382.16,19.108,4.5,2,26,1,11
+738,A,Cairo,Normal,Female,Electronic accessories,46.61,2,2019-02-26,12:28:00,Credit card,93.22,4.661,6.6,2,26,1,12
+507,B,Ismailia,Member,Male,Food and beverages,26.6,6,2019-02-26,15:10:00,eWallet,159.6,7.98,4.9,2,26,1,15
+468,B,Ismailia,Normal,Female,Health and beauty,99.71,6,2019-02-26,16:52:00,eWallet,598.26,29.913,7.9,2,26,1,16
+483,A,Cairo,Member,Male,Fashion accessories,55.45,1,2019-02-26,17:46:00,Credit card,55.45,2.7725,4.9,2,26,1,17
+63,B,Ismailia,Normal,Male,Sports and travel,54.45,1,2019-02-26,19:24:00,eWallet,54.45,2.7225,7.9,2,26,1,19
+682,C,Alexandria,Normal,Female,Food and beverages,22.93,9,2019-02-26,20:26:00,Cash,206.37,10.3185,5.5,2,26,1,20
+181,C,Alexandria,Normal,Female,Electronic accessories,99.69,1,2019-02-27,10:23:00,Credit card,99.69,4.9845,8.0,2,27,2,10
+373,B,Ismailia,Normal,Female,Health and beauty,13.5,10,2019-02-27,11:06:00,Credit card,135.0,6.75,4.8,2,27,2,11
+174,A,Cairo,Normal,Female,Food and beverages,74.44,10,2019-02-27,11:40:00,eWallet,744.4,37.22,5.1,2,27,2,11
+4,A,Cairo,Member,Male,Fashion accessories,21.48,2,2019-02-27,12:22:00,eWallet,42.96,2.148,6.6,2,27,2,12
+194,A,Cairo,Member,Male,Electronic accessories,92.6,7,2019-02-27,12:52:00,Credit card,648.2,32.41,9.3,2,27,2,12
+626,C,Alexandria,Normal,Female,Food and beverages,94.47,8,2019-02-27,15:12:00,Cash,755.76,37.788,9.1,2,27,2,15
+36,A,Cairo,Normal,Female,Fashion accessories,77.93,9,2019-02-27,16:10:00,eWallet,701.37,35.0685,7.6,2,27,2,16
+331,B,Ismailia,Member,Male,Health and beauty,56.69,9,2019-02-27,17:24:00,Credit card,510.21,25.5105,8.4,2,27,2,17
+794,B,Ismailia,Normal,Male,Sports and travel,67.27,5,2019-02-27,17:27:00,Cash,336.35,16.8175,6.9,2,27,2,17
+703,B,Ismailia,Normal,Male,Fashion accessories,52.42,3,2019-02-27,17:36:00,eWallet,157.26,7.863,7.5,2,27,2,17
+270,B,Ismailia,Normal,Female,Health and beauty,76.99,6,2019-02-27,17:55:00,Cash,461.94,23.097,6.1,2,27,2,17
+180,A,Cairo,Member,Male,Food and beverages,18.85,10,2019-02-27,18:24:00,eWallet,188.5,9.425,5.6,2,27,2,18
+107,B,Ismailia,Member,Female,Fashion accessories,19.77,10,2019-02-27,18:57:00,Credit card,197.7,9.885,5.0,2,27,2,18
+824,C,Alexandria,Member,Female,Health and beauty,85.87,7,2019-02-27,19:01:00,Credit card,601.09,30.0545,8.0,2,27,2,19
+746,B,Ismailia,Normal,Female,Fashion accessories,41.09,10,2019-02-28,14:42:00,Cash,410.9,20.545,7.3,2,28,3,14
+242,B,Ismailia,Normal,Male,Electronic accessories,60.3,1,2019-02-28,17:38:00,Cash,60.3,3.015,6.0,2,28,3,17
+45,C,Alexandria,Member,Male,Fashion accessories,93.2,2,2019-02-28,18:37:00,Credit card,186.4,9.32,6.0,2,28,3,18
+371,C,Alexandria,Normal,Female,Electronic accessories,85.98,8,2019-02-28,19:01:00,Cash,687.84,34.392,8.2,2,28,3,19
+660,A,Cairo,Normal,Male,Health and beauty,56.0,3,2019-02-28,19:33:00,eWallet,168.0,8.4,4.8,2,28,3,19
+853,A,Cairo,Member,Male,Food and beverages,80.62,6,2019-02-28,20:18:00,Cash,483.72,24.186,9.1,2,28,3,20
+884,A,Cairo,Normal,Female,Electronic accessories,45.48,10,2019-03-01,10:22:00,Credit card,454.8,22.74,4.8,3,1,4,10
+462,B,Ismailia,Normal,Male,Health and beauty,14.82,3,2019-03-01,11:30:00,Credit card,44.46,2.223,8.7,3,1,4,11
+119,B,Ismailia,Normal,Male,Health and beauty,69.51,2,2019-03-01,12:15:00,eWallet,139.02,6.951,8.1,3,1,4,12
+103,C,Alexandria,Normal,Male,Fashion accessories,78.55,9,2019-03-01,13:22:00,Cash,706.95,35.3475,7.2,3,1,4,13
+62,C,Alexandria,Member,Female,Food and beverages,74.89,4,2019-03-01,15:32:00,eWallet,299.56,14.978,4.2,3,1,4,15
+445,B,Ismailia,Normal,Male,Electronic accessories,27.5,3,2019-03-01,15:40:00,eWallet,82.5,4.125,6.5,3,1,4,15
+178,A,Cairo,Member,Female,Fashion accessories,22.32,4,2019-03-01,16:23:00,Credit card,89.28,4.464,4.4,3,1,4,16
+136,A,Cairo,Normal,Male,Home and lifestyle,34.73,2,2019-03-01,18:14:00,eWallet,69.46,3.473,9.7,3,1,4,18
+296,B,Ismailia,Member,Male,Fashion accessories,81.31,7,2019-03-01,19:49:00,eWallet,569.17,28.4585,6.3,3,1,4,19
+163,B,Ismailia,Member,Male,Food and beverages,53.72,1,2019-03-01,20:03:00,eWallet,53.72,2.686,6.4,3,1,4,20
+976,C,Alexandria,Member,Female,Sports and travel,54.55,10,2019-03-02,11:22:00,Credit card,545.5,27.275,7.1,3,2,5,11
+664,B,Ismailia,Member,Female,Electronic accessories,26.26,3,2019-03-02,12:36:00,eWallet,78.78,3.939,6.3,3,2,5,12
+667,B,Ismailia,Member,Female,Home and lifestyle,88.39,9,2019-03-02,12:40:00,Cash,795.51,39.7755,6.3,3,2,5,12
+141,C,Alexandria,Normal,Female,Fashion accessories,27.02,3,2019-03-02,13:01:00,Credit card,81.06,4.053,7.1,3,2,5,13
+586,B,Ismailia,Normal,Female,Health and beauty,73.41,3,2019-03-02,13:10:00,eWallet,220.23,11.0115,4.0,3,2,5,13
+761,C,Alexandria,Member,Male,Health and beauty,85.6,7,2019-03-02,13:50:00,Cash,599.2,29.96,5.3,3,2,5,13
+567,B,Ismailia,Member,Male,Home and lifestyle,27.0,9,2019-03-02,14:16:00,Cash,243.0,12.15,4.8,3,2,5,14
+948,A,Cairo,Member,Female,Sports and travel,39.47,2,2019-03-02,16:16:00,Credit card,78.94,3.947,5.0,3,2,5,16
+630,C,Alexandria,Member,Female,Fashion accessories,92.49,5,2019-03-02,16:35:00,Credit card,462.45,23.1225,8.6,3,2,5,16
+383,C,Alexandria,Normal,Female,Sports and travel,73.98,7,2019-03-02,16:42:00,eWallet,517.86,25.893,4.1,3,2,5,16
+250,B,Ismailia,Normal,Female,Home and lifestyle,97.38,10,2019-03-02,17:16:00,eWallet,973.8,48.69,4.4,3,2,5,17
+543,A,Cairo,Member,Male,Sports and travel,88.63,3,2019-03-02,17:36:00,eWallet,265.89,13.2945,6.0,3,2,5,17
+757,A,Cairo,Normal,Male,Food and beverages,66.52,4,2019-03-02,18:14:00,eWallet,266.08,13.304,6.9,3,2,5,18
+75,B,Ismailia,Normal,Female,Electronic accessories,38.27,2,2019-03-02,18:18:00,Credit card,76.54,3.827,5.8,3,2,5,18
+306,B,Ismailia,Member,Female,Electronic accessories,13.22,5,2019-03-02,19:26:00,Cash,66.1,3.305,4.3,3,2,5,19
+895,B,Ismailia,Normal,Male,Sports and travel,25.31,2,2019-03-02,19:26:00,eWallet,50.62,2.531,7.2,3,2,5,19
+891,B,Ismailia,Normal,Female,Electronic accessories,99.73,9,2019-03-02,19:42:00,Credit card,897.57,44.8785,6.5,3,2,5,19
+981,C,Alexandria,Normal,Female,Sports and travel,14.39,2,2019-03-02,19:44:00,Credit card,28.78,1.439,7.2,3,2,5,19
+249,C,Alexandria,Member,Male,Health and beauty,46.53,6,2019-03-03,10:54:00,Credit card,279.18,13.959,4.3,3,3,6,10
+154,B,Ismailia,Member,Female,Food and beverages,73.05,10,2019-03-03,12:25:00,Credit card,730.5,36.525,8.7,3,3,6,12
+840,B,Ismailia,Member,Male,Home and lifestyle,30.12,8,2019-03-03,13:01:00,Cash,240.96,12.048,7.7,3,3,6,13
+653,A,Cairo,Normal,Male,Home and lifestyle,46.33,7,2019-03-03,13:23:00,Credit card,324.31,16.2155,7.4,3,3,6,13
+125,C,Alexandria,Member,Female,Electronic accessories,51.92,5,2019-03-03,13:42:00,Cash,259.6,12.98,7.5,3,3,6,13
+950,C,Alexandria,Member,Male,Electronic accessories,81.97,10,2019-03-03,14:30:00,Cash,819.7,40.985,9.2,3,3,6,14
+572,A,Cairo,Normal,Male,Health and beauty,25.0,1,2019-03-03,15:09:00,eWallet,25.0,1.25,5.5,3,3,6,15
+82,A,Cairo,Member,Male,Food and beverages,22.17,8,2019-03-03,17:01:00,Credit card,177.36,8.868,9.6,3,3,6,17
+461,C,Alexandria,Normal,Female,Home and lifestyle,44.01,8,2019-03-03,17:36:00,Cash,352.08,17.604,8.8,3,3,6,17
+252,B,Ismailia,Member,Female,Home and lifestyle,94.49,8,2019-03-03,19:00:00,eWallet,755.92,37.796,7.5,3,3,6,19
+787,C,Alexandria,Normal,Male,Electronic accessories,20.85,8,2019-03-03,19:17:00,Cash,166.8,8.34,6.3,3,3,6,19
+279,C,Alexandria,Member,Female,Electronic accessories,30.2,8,2019-03-03,19:30:00,eWallet,241.6,12.08,5.1,3,3,6,19
+687,A,Cairo,Normal,Male,Fashion accessories,46.41,1,2019-03-03,20:06:00,Credit card,46.41,2.3205,4.0,3,3,6,20
+636,A,Cairo,Normal,Male,Health and beauty,28.95,7,2019-03-03,20:31:00,Credit card,202.65,10.1325,6.0,3,3,6,20
+213,A,Cairo,Normal,Female,Health and beauty,68.71,3,2019-03-04,10:05:00,Cash,206.13,10.3065,8.7,3,4,0,10
+138,A,Cairo,Normal,Female,Food and beverages,74.66,4,2019-03-04,10:39:00,Cash,298.64,14.932,8.5,3,4,0,10
+598,A,Cairo,Normal,Female,Sports and travel,12.34,7,2019-03-04,11:19:00,Credit card,86.38,4.319,6.7,3,4,0,11
+823,A,Cairo,Member,Female,Fashion accessories,48.96,9,2019-03-04,11:27:00,Cash,440.64,22.032,8.0,3,4,0,11
+147,A,Cairo,Normal,Male,Health and beauty,14.62,5,2019-03-04,12:23:00,Cash,73.1,3.655,4.4,3,4,0,12
+722,A,Cairo,Member,Male,Health and beauty,48.63,10,2019-03-04,12:44:00,Cash,486.3,24.315,8.8,3,4,0,12
+705,A,Cairo,Member,Male,Health and beauty,99.83,6,2019-03-04,15:02:00,eWallet,598.98,29.949,8.5,3,4,0,15
+556,A,Cairo,Normal,Female,Home and lifestyle,33.3,9,2019-03-04,15:27:00,eWallet,299.7,14.985,7.2,3,4,0,15
+275,C,Alexandria,Normal,Female,Electronic accessories,30.24,1,2019-03-04,15:44:00,Cash,30.24,1.512,8.4,3,4,0,15
+305,B,Ismailia,Member,Male,Electronic accessories,19.24,9,2019-03-04,16:28:00,Cash,173.16,8.658,8.0,3,4,0,16
+185,A,Cairo,Normal,Female,Home and lifestyle,56.53,4,2019-03-04,19:48:00,eWallet,226.12,11.306,5.5,3,4,0,19
+149,C,Alexandria,Member,Female,Food and beverages,98.7,8,2019-03-04,20:39:00,Cash,789.6,39.48,7.6,3,4,0,20
+333,B,Ismailia,Normal,Male,Health and beauty,87.98,3,2019-03-05,10:40:00,eWallet,263.94,13.197,5.1,3,5,1,10
+240,B,Ismailia,Member,Male,Fashion accessories,21.94,5,2019-03-05,12:29:00,eWallet,109.7,5.485,5.3,3,5,1,12
+862,B,Ismailia,Member,Female,Health and beauty,41.06,6,2019-03-05,13:30:00,Credit card,246.36,12.318,8.3,3,5,1,13
+50,C,Alexandria,Member,Female,Home and lifestyle,12.12,10,2019-03-05,13:44:00,Credit card,121.2,6.06,8.4,3,5,1,13
+776,C,Alexandria,Normal,Female,Sports and travel,83.06,7,2019-03-05,14:31:00,eWallet,581.42,29.071,4.0,3,5,1,14
+903,C,Alexandria,Member,Female,Food and beverages,78.31,10,2019-03-05,16:24:00,eWallet,783.1,39.155,6.6,3,5,1,16
+690,A,Cairo,Normal,Male,Electronic accessories,78.31,3,2019-03-05,16:38:00,eWallet,234.93,11.7465,5.4,3,5,1,16
+819,C,Alexandria,Member,Female,Fashion accessories,44.22,5,2019-03-05,17:07:00,Credit card,221.1,11.055,8.6,3,5,1,17
+932,A,Cairo,Normal,Female,Fashion accessories,81.91,2,2019-03-05,17:43:00,Cash,163.82,8.191,7.8,3,5,1,17
+80,B,Ismailia,Normal,Male,Sports and travel,69.74,10,2019-03-05,17:49:00,Credit card,697.4,34.87,8.9,3,5,1,17
+3,C,Alexandria,Member,Male,Health and beauty,65.31,7,2019-03-05,18:02:00,Credit card,457.17,22.8585,4.2,3,5,1,18
+785,B,Ismailia,Normal,Male,Home and lifestyle,82.7,6,2019-03-05,18:14:00,Cash,496.2,24.81,7.4,3,5,1,18
+500,B,Ismailia,Member,Female,Food and beverages,48.52,3,2019-03-05,18:17:00,eWallet,145.56,7.278,4.0,3,5,1,18
+413,B,Ismailia,Member,Female,Health and beauty,55.97,7,2019-03-05,19:06:00,eWallet,391.79,19.5895,8.9,3,5,1,19
+608,B,Ismailia,Normal,Female,Home and lifestyle,95.46,8,2019-03-05,19:40:00,eWallet,763.68,38.184,4.7,3,5,1,19
+997,B,Ismailia,Member,Male,Food and beverages,18.08,3,2019-03-05,19:46:00,eWallet,54.24,2.712,8.0,3,5,1,19
+631,B,Ismailia,Member,Female,Health and beauty,25.32,8,2019-03-05,20:24:00,eWallet,202.56,10.128,8.7,3,5,1,20
+984,A,Cairo,Normal,Female,Health and beauty,79.74,1,2019-03-06,10:36:00,eWallet,79.74,3.987,7.3,3,6,2,10
+982,B,Ismailia,Member,Male,Fashion accessories,49.92,2,2019-03-06,11:55:00,Credit card,99.84,4.992,7.0,3,6,2,11
+114,A,Cairo,Member,Male,Sports and travel,15.81,10,2019-03-06,12:27:00,Credit card,158.1,7.905,8.6,3,6,2,12
+184,A,Cairo,Member,Male,Electronic accessories,21.5,9,2019-03-06,12:46:00,Credit card,193.5,9.675,7.8,3,6,2,12
+510,C,Alexandria,Normal,Male,Home and lifestyle,37.0,1,2019-03-06,13:29:00,Credit card,37.0,1.85,7.9,3,6,2,13
+459,B,Ismailia,Normal,Male,Food and beverages,62.08,7,2019-03-06,13:46:00,eWallet,434.56,21.728,5.4,3,6,2,13
+192,B,Ismailia,Member,Male,Home and lifestyle,71.86,8,2019-03-06,15:07:00,Credit card,574.88,28.744,6.2,3,6,2,15
+52,B,Ismailia,Member,Male,Sports and travel,37.32,9,2019-03-06,15:31:00,eWallet,335.88,16.794,5.1,3,6,2,15
+848,B,Ismailia,Normal,Female,Sports and travel,67.43,5,2019-03-06,18:13:00,eWallet,337.15,16.8575,6.3,3,6,2,18
+873,A,Cairo,Member,Female,Sports and travel,92.13,6,2019-03-06,20:34:00,Cash,552.78,27.639,8.3,3,6,2,20
+751,B,Ismailia,Normal,Male,Electronic accessories,28.38,5,2019-03-06,20:57:00,Cash,141.9,7.095,9.4,3,6,2,20
+372,C,Alexandria,Normal,Male,Electronic accessories,22.21,6,2019-03-07,10:23:00,Credit card,133.26,6.663,8.6,3,7,3,10
+676,A,Cairo,Normal,Male,Home and lifestyle,97.94,1,2019-03-07,11:44:00,eWallet,97.94,4.897,6.9,3,7,3,11
+172,B,Ismailia,Normal,Male,Home and lifestyle,16.16,2,2019-03-07,11:49:00,eWallet,32.32,1.616,6.5,3,7,3,11
+402,A,Cairo,Member,Female,Health and beauty,15.55,9,2019-03-07,13:12:00,Cash,139.95,6.9975,5.0,3,7,3,13
+257,B,Ismailia,Normal,Male,Home and lifestyle,50.28,5,2019-03-07,13:58:00,eWallet,251.4,12.57,9.7,3,7,3,13
+892,C,Alexandria,Normal,Female,Fashion accessories,16.45,4,2019-03-07,14:53:00,eWallet,65.8,3.29,5.6,3,7,3,14
+619,C,Alexandria,Normal,Male,Electronic accessories,84.07,4,2019-03-07,16:54:00,eWallet,336.28,16.814,4.4,3,7,3,16
+810,A,Cairo,Member,Female,Home and lifestyle,28.31,4,2019-03-07,18:35:00,Cash,113.24,5.662,8.2,3,7,3,18
+465,C,Alexandria,Normal,Male,Food and beverages,99.79,2,2019-03-07,20:37:00,eWallet,199.58,9.979,8.0,3,7,3,20
+142,C,Alexandria,Normal,Female,Electronic accessories,15.28,5,2019-03-08,10:29:00,Cash,76.4,3.82,9.6,3,8,4,10
+281,A,Cairo,Member,Female,Home and lifestyle,90.65,10,2019-03-08,10:53:00,eWallet,906.5,45.325,7.3,3,8,4,10
+565,A,Cairo,Normal,Female,Fashion accessories,61.77,5,2019-03-08,13:21:00,Cash,308.85,15.4425,6.7,3,8,4,13
+324,B,Ismailia,Member,Female,Food and beverages,17.63,5,2019-03-08,15:27:00,Cash,88.15,4.4075,8.5,3,8,4,15
+303,A,Cairo,Normal,Male,Home and lifestyle,33.99,6,2019-03-08,15:37:00,Credit card,203.94,10.197,7.7,3,8,4,15
+474,C,Alexandria,Normal,Female,Health and beauty,81.3,6,2019-03-08,16:43:00,eWallet,487.8,24.39,5.3,3,8,4,16
+582,C,Alexandria,Normal,Male,Food and beverages,43.27,2,2019-03-08,16:53:00,eWallet,86.54,4.327,5.7,3,8,4,16
+450,C,Alexandria,Normal,Female,Health and beauty,46.26,6,2019-03-08,17:11:00,Credit card,277.56,13.878,9.5,3,8,4,17
+655,C,Alexandria,Normal,Female,Fashion accessories,37.55,10,2019-03-08,20:01:00,Credit card,375.5,18.775,9.3,3,8,4,20
+545,C,Alexandria,Member,Male,Food and beverages,17.04,4,2019-03-08,20:15:00,eWallet,68.16,3.408,7.0,3,8,4,20
+611,A,Cairo,Normal,Male,Electronic accessories,97.16,1,2019-03-08,20:38:00,eWallet,97.16,4.858,7.2,3,8,4,20
+320,C,Alexandria,Member,Male,Sports and travel,48.91,5,2019-03-09,10:17:00,Cash,244.55,12.2275,6.6,3,9,5,10
+244,B,Ismailia,Member,Female,Home and lifestyle,52.18,7,2019-03-09,10:54:00,Cash,365.26,18.263,9.3,3,9,5,10
+214,C,Alexandria,Member,Female,Food and beverages,98.97,9,2019-03-09,11:23:00,Cash,890.73,44.5365,6.7,3,9,5,11
+888,A,Cairo,Normal,Male,Sports and travel,60.87,2,2019-03-09,12:37:00,eWallet,121.74,6.087,8.7,3,9,5,12
+259,A,Cairo,Member,Female,Sports and travel,52.26,10,2019-03-09,12:45:00,Credit card,522.6,26.13,6.2,3,9,5,12
+688,A,Cairo,Normal,Female,Fashion accessories,97.29,8,2019-03-09,13:18:00,Credit card,778.32,38.916,6.2,3,9,5,13
+23,A,Cairo,Normal,Male,Health and beauty,51.71,4,2019-03-09,13:53:00,Credit card,206.84,10.342,9.8,3,9,5,13
+640,B,Ismailia,Normal,Male,Fashion accessories,95.54,7,2019-03-09,14:36:00,Credit card,668.78,33.439,9.6,3,9,5,14
+201,B,Ismailia,Member,Female,Fashion accessories,56.47,8,2019-03-09,14:57:00,eWallet,451.76,22.588,7.3,3,9,5,14
+479,C,Alexandria,Normal,Male,Fashion accessories,16.28,1,2019-03-09,15:36:00,Cash,16.28,0.814,5.0,3,9,5,15
+517,B,Ismailia,Member,Male,Electronic accessories,25.51,4,2019-03-09,17:03:00,Cash,102.04,5.102,6.8,3,9,5,17
+134,B,Ismailia,Member,Male,Sports and travel,99.96,9,2019-03-09,17:26:00,Credit card,899.64,44.982,4.2,3,9,5,17
+30,B,Ismailia,Member,Female,Electronic accessories,93.96,4,2019-03-09,18:00:00,Cash,375.84,18.792,9.5,3,9,5,18
+921,C,Alexandria,Normal,Female,Electronic accessories,75.91,6,2019-03-09,18:21:00,Cash,455.46,22.773,8.7,3,9,5,18
+68,A,Cairo,Member,Male,Health and beauty,51.94,10,2019-03-09,18:24:00,eWallet,519.4,25.97,6.5,3,9,5,18
+887,A,Cairo,Member,Male,Food and beverages,99.78,5,2019-03-09,19:09:00,Cash,498.9,24.945,5.4,3,9,5,19
+99,A,Cairo,Normal,Female,Fashion accessories,87.67,2,2019-03-10,12:17:00,Credit card,175.34,8.767,7.7,3,10,6,12
+629,C,Alexandria,Member,Male,Health and beauty,81.95,10,2019-03-10,12:39:00,Credit card,819.5,40.975,6.0,3,10,6,12
+616,B,Ismailia,Normal,Male,Food and beverages,18.22,7,2019-03-10,14:04:00,Credit card,127.54,6.377,6.6,3,10,6,14
+177,C,Alexandria,Member,Female,Home and lifestyle,35.79,9,2019-03-10,15:06:00,Credit card,322.11,16.1055,5.1,3,10,6,15
+443,C,Alexandria,Normal,Male,Fashion accessories,45.74,3,2019-03-10,17:38:00,Credit card,137.22,6.861,6.5,3,10,6,17
+66,B,Ismailia,Normal,Female,Electronic accessories,25.45,1,2019-03-10,18:10:00,Credit card,25.45,1.2725,5.1,3,10,6,18
+706,A,Cairo,Normal,Female,Home and lifestyle,93.69,7,2019-03-10,18:44:00,Credit card,655.83,32.7915,4.5,3,10,6,18
+730,A,Cairo,Normal,Male,Sports and travel,25.84,3,2019-03-10,18:55:00,eWallet,77.52,3.876,6.6,3,10,6,18
+860,B,Ismailia,Normal,Female,Food and beverages,57.34,3,2019-03-10,18:59:00,Credit card,172.02,8.601,7.9,3,10,6,18
+24,A,Cairo,Member,Male,Sports and travel,62.62,5,2019-03-10,19:15:00,eWallet,313.1,15.655,7.0,3,10,6,19
+167,A,Cairo,Member,Male,Food and beverages,10.13,7,2019-03-10,19:35:00,eWallet,70.91,3.5455,8.3,3,10,6,19
+803,A,Cairo,Normal,Male,Electronic accessories,58.03,2,2019-03-10,20:46:00,eWallet,116.06,5.803,8.8,3,10,6,20
+693,A,Cairo,Member,Female,Health and beauty,68.93,7,2019-03-11,11:03:00,Credit card,482.51,24.1255,4.6,3,11,0,11
+435,A,Cairo,Normal,Male,Health and beauty,59.77,2,2019-03-11,12:01:00,Credit card,119.54,5.977,5.8,3,11,0,12
+812,A,Cairo,Normal,Female,Fashion accessories,94.67,4,2019-03-11,12:04:00,Cash,378.68,18.934,6.8,3,11,0,12
+758,A,Cairo,Normal,Female,Home and lifestyle,63.42,8,2019-03-11,12:55:00,eWallet,507.36,25.368,7.4,3,11,0,12
+994,A,Cairo,Normal,Female,Home and lifestyle,28.32,5,2019-03-11,13:28:00,eWallet,141.6,7.08,6.2,3,11,0,13
+723,C,Alexandria,Normal,Male,Food and beverages,46.77,6,2019-03-11,13:37:00,Cash,280.62,14.031,6.0,3,11,0,13
+272,B,Ismailia,Normal,Female,Home and lifestyle,40.3,2,2019-03-11,15:30:00,eWallet,80.6,4.03,4.4,3,11,0,15
+993,B,Ismailia,Member,Female,Sports and travel,29.61,7,2019-03-11,15:53:00,Cash,207.27,10.3635,6.5,3,11,0,15
+593,C,Alexandria,Member,Male,Sports and travel,34.56,7,2019-03-11,16:07:00,Credit card,241.92,12.096,7.3,3,11,0,16
+742,C,Alexandria,Member,Female,Health and beauty,29.67,7,2019-03-11,18:58:00,Credit card,207.69,10.3845,8.1,3,11,0,18
+131,B,Ismailia,Member,Female,Electronic accessories,34.49,5,2019-03-11,19:44:00,Credit card,172.45,8.6225,9.0,3,11,0,19
+406,B,Ismailia,Member,Female,Home and lifestyle,40.73,7,2019-03-12,11:01:00,eWallet,285.11,14.2555,5.4,3,12,1,11
+60,B,Ismailia,Member,Male,Health and beauty,64.36,9,2019-03-12,12:09:00,Credit card,579.24,28.962,8.6,3,12,1,12
+183,A,Cairo,Member,Female,Sports and travel,98.4,7,2019-03-12,12:43:00,Credit card,688.8,34.44,8.7,3,12,1,12
+537,B,Ismailia,Member,Female,Electronic accessories,10.59,3,2019-03-12,13:52:00,Credit card,31.77,1.5885,8.7,3,12,1,13
+566,A,Cairo,Member,Female,Health and beauty,47.67,4,2019-03-12,14:21:00,Cash,190.68,9.534,9.1,3,12,1,14
+755,C,Alexandria,Member,Male,Food and beverages,94.26,4,2019-03-12,16:30:00,Cash,377.04,18.852,8.6,3,12,1,16
+577,B,Ismailia,Member,Male,Health and beauty,39.01,1,2019-03-12,16:46:00,Credit card,39.01,1.9505,4.7,3,12,1,16
+196,C,Alexandria,Member,Male,Food and beverages,55.04,7,2019-03-12,19:39:00,eWallet,385.28,19.264,5.2,3,12,1,19
+212,B,Ismailia,Normal,Male,Sports and travel,97.74,4,2019-03-12,19:53:00,eWallet,390.96,19.548,6.4,3,12,1,19
+732,C,Alexandria,Normal,Male,Health and beauty,41.5,4,2019-03-12,19:58:00,Credit card,166.0,8.3,8.2,3,12,1,19
+685,C,Alexandria,Normal,Male,Home and lifestyle,46.22,4,2019-03-12,20:04:00,Credit card,184.88,9.244,6.2,3,12,1,20
+15,C,Alexandria,Normal,Male,Electronic accessories,30.61,6,2019-03-12,20:36:00,Cash,183.66,9.183,9.3,3,12,1,20
+594,B,Ismailia,Normal,Male,Health and beauty,18.11,10,2019-03-13,11:46:00,eWallet,181.1,9.055,5.9,3,13,2,11
+39,C,Alexandria,Normal,Female,Fashion accessories,12.19,8,2019-03-13,12:47:00,eWallet,97.52,4.876,6.8,3,13,2,12
+77,C,Alexandria,Member,Male,Sports and travel,72.88,2,2019-03-13,12:51:00,Cash,145.76,7.288,6.1,3,13,2,12
+265,A,Cairo,Normal,Female,Food and beverages,54.27,5,2019-03-13,14:16:00,eWallet,271.35,13.5675,4.6,3,13,2,14
+592,C,Alexandria,Normal,Male,Fashion accessories,56.5,1,2019-03-13,15:45:00,eWallet,56.5,2.825,9.6,3,13,2,15
+975,A,Cairo,Member,Male,Health and beauty,15.87,10,2019-03-13,16:40:00,Cash,158.7,7.935,5.8,3,13,2,16
+691,B,Ismailia,Member,Female,Fashion accessories,38.3,4,2019-03-13,19:22:00,Cash,153.2,7.66,5.7,3,13,2,19
+0,A,Cairo,Normal,Male,Food and beverages,45.79,7,2019-03-13,19:44:00,Credit card,320.53,16.0265,7.0,3,13,2,19
+719,B,Ismailia,Normal,Female,Fashion accessories,34.7,2,2019-03-13,19:48:00,eWallet,69.4,3.47,8.2,3,13,2,19
+291,C,Alexandria,Member,Male,Home and lifestyle,63.91,8,2019-03-13,19:52:00,Credit card,511.28,25.564,4.6,3,13,2,19
+349,C,Alexandria,Normal,Male,Fashion accessories,59.61,10,2019-03-14,11:07:00,Cash,596.1,29.805,5.3,3,14,3,11
+121,B,Ismailia,Member,Female,Fashion accessories,22.32,4,2019-03-14,11:16:00,eWallet,89.28,4.464,4.1,3,14,3,11
+426,A,Cairo,Member,Male,Food and beverages,23.48,2,2019-03-14,11:21:00,Credit card,46.96,2.348,7.9,3,14,3,11
+101,A,Cairo,Normal,Male,Electronic accessories,99.55,7,2019-03-14,12:07:00,Cash,696.85,34.8425,7.6,3,14,3,12
+81,B,Ismailia,Normal,Male,Electronic accessories,21.58,9,2019-03-14,12:32:00,Cash,194.22,9.711,7.3,3,14,3,12
+446,C,Alexandria,Member,Female,Sports and travel,35.22,6,2019-03-14,13:49:00,eWallet,211.32,10.566,6.5,3,14,3,13
+74,A,Cairo,Normal,Female,Electronic accessories,15.69,3,2019-03-14,14:13:00,Credit card,47.07,2.3535,5.8,3,14,3,14
+42,A,Cairo,Member,Female,Sports and travel,97.48,9,2019-03-14,14:19:00,eWallet,877.32,43.866,7.4,3,14,3,14
+649,B,Ismailia,Member,Male,Health and beauty,82.58,10,2019-03-14,14:41:00,Cash,825.8,41.29,5.0,3,14,3,14
+759,C,Alexandria,Member,Male,Sports and travel,42.85,1,2019-03-14,15:36:00,Credit card,42.85,2.1425,9.3,3,14,3,15
+488,B,Ismailia,Normal,Female,Food and beverages,53.21,8,2019-03-14,16:45:00,eWallet,425.68,21.284,5.0,3,14,3,16
+557,C,Alexandria,Normal,Male,Electronic accessories,27.85,7,2019-03-14,17:20:00,eWallet,194.95,9.7475,6.0,3,14,3,17
+880,C,Alexandria,Normal,Male,Home and lifestyle,35.47,4,2019-03-14,17:22:00,Credit card,141.88,7.094,6.9,3,14,3,17
+778,C,Alexandria,Normal,Female,Home and lifestyle,70.11,6,2019-03-14,17:54:00,eWallet,420.66,21.033,5.2,3,14,3,17
+918,C,Alexandria,Member,Male,Electronic accessories,87.91,5,2019-03-14,18:10:00,eWallet,439.55,21.9775,4.4,3,14,3,18
+13,B,Ismailia,Member,Female,Fashion accessories,54.73,7,2019-03-14,19:02:00,Credit card,383.11,19.1555,8.5,3,14,3,19
+17,C,Alexandria,Normal,Female,Electronic accessories,51.32,9,2019-03-14,19:33:00,Cash,461.88,23.094,5.6,3,14,3,19
+337,C,Alexandria,Normal,Male,Food and beverages,77.56,10,2019-03-14,20:35:00,eWallet,775.6,38.78,6.9,3,14,3,20
+612,A,Cairo,Normal,Male,Health and beauty,96.58,2,2019-03-15,10:12:00,Credit card,193.16,9.658,5.1,3,15,4,10
+827,B,Ismailia,Normal,Male,Home and lifestyle,13.59,9,2019-03-15,10:26:00,Cash,122.31,6.1155,5.8,3,15,4,10
+319,B,Ismailia,Normal,Male,Health and beauty,92.78,1,2019-03-15,10:50:00,Credit card,92.78,4.639,9.8,3,15,4,10
+533,B,Ismailia,Member,Female,Electronic accessories,57.49,4,2019-03-15,11:57:00,Cash,229.96,11.498,6.6,3,15,4,11
+208,B,Ismailia,Normal,Male,Home and lifestyle,33.2,2,2019-03-15,12:20:00,Credit card,66.4,3.32,4.4,3,15,4,12
+595,B,Ismailia,Member,Male,Sports and travel,96.8,3,2019-03-15,13:05:00,Cash,290.4,14.52,5.3,3,15,4,13
+64,C,Alexandria,Normal,Male,Home and lifestyle,65.26,8,2019-03-15,14:04:00,eWallet,522.08,26.104,6.3,3,15,4,14
+569,B,Ismailia,Normal,Male,Health and beauty,10.75,8,2019-03-15,14:38:00,eWallet,86.0,4.3,6.2,3,15,4,14
+321,B,Ismailia,Member,Male,Sports and travel,90.53,8,2019-03-15,14:48:00,Credit card,724.24,36.212,6.5,3,15,4,14
+933,A,Cairo,Normal,Male,Health and beauty,24.89,9,2019-03-15,15:36:00,Cash,224.01,11.2005,7.4,3,15,4,15
+627,B,Ismailia,Normal,Male,Fashion accessories,27.18,2,2019-03-15,16:26:00,eWallet,54.36,2.718,4.3,3,15,4,16
+498,A,Cairo,Member,Female,Fashion accessories,19.66,10,2019-03-15,18:20:00,Credit card,196.6,9.83,7.2,3,15,4,18
+737,B,Ismailia,Normal,Male,Sports and travel,34.37,10,2019-03-16,10:11:00,eWallet,343.7,17.185,6.7,3,16,5,10
+238,A,Cairo,Normal,Male,Home and lifestyle,23.75,4,2019-03-16,11:22:00,Cash,95.0,4.75,5.2,3,16,5,11
+768,A,Cairo,Normal,Female,Food and beverages,63.61,5,2019-03-16,12:43:00,eWallet,318.05,15.9025,4.8,3,16,5,12
+124,C,Alexandria,Normal,Male,Fashion accessories,97.26,4,2019-03-16,15:33:00,eWallet,389.04,19.452,6.8,3,16,5,15
+588,B,Ismailia,Normal,Male,Sports and travel,74.97,1,2019-03-16,16:58:00,Cash,74.97,3.7485,5.6,3,16,5,16
+748,B,Ismailia,Normal,Female,Electronic accessories,95.64,4,2019-03-16,18:51:00,Cash,382.56,19.128,7.9,3,16,5,18
+229,C,Alexandria,Normal,Female,Food and beverages,87.8,9,2019-03-16,19:08:00,Cash,790.2,39.51,9.2,3,16,5,19
+584,A,Cairo,Normal,Male,Sports and travel,72.5,8,2019-03-16,19:25:00,eWallet,580.0,29.0,9.2,3,16,5,19
+641,C,Alexandria,Member,Male,Health and beauty,15.37,2,2019-03-16,19:47:00,Cash,30.74,1.537,7.2,3,16,5,19
+59,B,Ismailia,Normal,Female,Home and lifestyle,11.28,9,2019-03-17,11:55:00,Credit card,101.52,5.076,4.3,3,17,6,11
+673,B,Ismailia,Normal,Female,Sports and travel,54.51,6,2019-03-17,13:54:00,eWallet,327.06,16.353,7.8,3,17,6,13
+137,A,Cairo,Normal,Female,Home and lifestyle,77.47,4,2019-03-17,16:36:00,Cash,309.88,15.494,4.2,3,17,6,16
+274,C,Alexandria,Member,Female,Food and beverages,22.62,1,2019-03-17,18:58:00,Cash,22.62,1.131,6.4,3,17,6,18
+698,C,Alexandria,Member,Male,Fashion accessories,35.19,10,2019-03-17,19:06:00,Credit card,351.9,17.595,8.4,3,17,6,19
+978,A,Cairo,Member,Male,Sports and travel,76.92,10,2019-03-17,19:53:00,eWallet,769.2,38.46,5.6,3,17,6,19
+395,B,Ismailia,Normal,Male,Home and lifestyle,99.7,3,2019-03-18,11:29:00,eWallet,299.1,14.955,4.7,3,18,0,11
+838,B,Ismailia,Normal,Male,Home and lifestyle,44.12,3,2019-03-18,13:45:00,Credit card,132.36,6.618,7.9,3,18,0,13
+186,C,Alexandria,Member,Male,Fashion accessories,91.98,1,2019-03-18,15:29:00,Cash,91.98,4.599,9.8,3,18,0,15
+389,C,Alexandria,Member,Female,Fashion accessories,51.47,1,2019-03-18,15:52:00,eWallet,51.47,2.5735,8.5,3,18,0,15
+476,A,Cairo,Normal,Female,Sports and travel,33.26,5,2019-03-18,16:10:00,Credit card,166.3,8.315,4.2,3,18,0,16
+422,A,Cairo,Normal,Female,Electronic accessories,51.19,4,2019-03-18,17:15:00,Credit card,204.76,10.238,4.7,3,18,0,17
+195,C,Alexandria,Member,Female,Home and lifestyle,28.53,10,2019-03-18,17:38:00,eWallet,285.3,14.265,7.8,3,18,0,17
+905,A,Cairo,Normal,Male,Electronic accessories,32.71,5,2019-03-19,11:30:00,Credit card,163.55,8.1775,9.9,3,19,1,11
+791,A,Cairo,Member,Male,Home and lifestyle,23.29,4,2019-03-19,11:52:00,Credit card,93.16,4.658,5.9,3,19,1,11
+271,C,Alexandria,Normal,Female,Electronic accessories,46.2,1,2019-03-19,12:16:00,Cash,46.2,2.31,6.3,3,19,1,12
+573,C,Alexandria,Normal,Male,Health and beauty,66.14,4,2019-03-19,12:46:00,Credit card,264.56,13.228,5.6,3,19,1,12
+936,A,Cairo,Normal,Female,Electronic accessories,75.06,9,2019-03-19,13:25:00,eWallet,675.54,33.777,6.2,3,19,1,13
+540,A,Cairo,Member,Female,Food and beverages,83.34,2,2019-03-19,13:37:00,Cash,166.68,8.334,7.6,3,19,1,13
+736,B,Ismailia,Member,Male,Home and lifestyle,38.81,4,2019-03-19,13:40:00,eWallet,155.24,7.762,4.9,3,19,1,13
+457,C,Alexandria,Normal,Female,Electronic accessories,26.61,2,2019-03-19,14:35:00,Cash,53.22,2.661,4.2,3,19,1,14
+607,A,Cairo,Normal,Female,Fashion accessories,15.5,1,2019-03-19,15:23:00,Credit card,15.5,0.775,7.4,3,19,1,15
+65,C,Alexandria,Member,Female,Electronic accessories,88.55,8,2019-03-19,15:29:00,eWallet,708.4,35.42,4.7,3,19,1,15
+999,A,Cairo,Normal,Male,Fashion accessories,76.4,9,2019-03-19,15:49:00,eWallet,687.6,34.38,7.5,3,19,1,15
+772,C,Alexandria,Member,Female,Home and lifestyle,75.53,4,2019-03-19,15:52:00,eWallet,302.12,15.106,8.3,3,19,1,15
+580,C,Alexandria,Member,Female,Fashion accessories,82.63,10,2019-03-19,17:08:00,eWallet,826.3,41.315,7.9,3,19,1,17
+752,B,Ismailia,Normal,Male,Health and beauty,30.35,7,2019-03-19,18:19:00,Cash,212.45,10.6225,8.0,3,19,1,18
+817,C,Alexandria,Normal,Male,Sports and travel,99.24,9,2019-03-19,19:09:00,eWallet,893.16,44.658,9.0,3,19,1,19
+248,B,Ismailia,Member,Male,Fashion accessories,25.42,8,2019-03-19,19:42:00,Credit card,203.36,10.168,6.7,3,19,1,19
+440,C,Alexandria,Member,Female,Home and lifestyle,83.17,6,2019-03-20,11:23:00,Cash,499.02,24.951,7.3,3,20,2,11
+877,A,Cairo,Normal,Male,Home and lifestyle,93.96,9,2019-03-20,11:32:00,Cash,845.64,42.282,9.8,3,20,2,11
+497,A,Cairo,Member,Female,Sports and travel,38.72,9,2019-03-20,12:24:00,eWallet,348.48,17.424,4.2,3,20,2,12
+504,B,Ismailia,Normal,Male,Fashion accessories,99.25,2,2019-03-20,13:02:00,Cash,198.5,9.925,9.0,3,20,2,13
+684,B,Ismailia,Member,Female,Food and beverages,20.87,3,2019-03-20,13:53:00,Credit card,62.61,3.1305,8.0,3,20,2,13
+654,B,Ismailia,Normal,Male,Sports and travel,75.92,8,2019-03-20,14:14:00,Cash,607.36,30.368,5.5,3,20,2,14
+828,A,Cairo,Member,Male,Electronic accessories,74.51,6,2019-03-20,15:08:00,eWallet,447.06,22.353,5.0,3,20,2,15
+129,A,Cairo,Normal,Male,Food and beverages,43.25,2,2019-03-20,15:56:00,Cash,86.5,4.325,6.2,3,20,2,15
+526,C,Alexandria,Member,Male,Fashion accessories,70.99,10,2019-03-20,16:28:00,Cash,709.9,35.495,5.7,3,20,2,16
+2,C,Alexandria,Member,Male,Sports and travel,25.25,5,2019-03-20,17:52:00,Cash,126.25,6.3125,6.1,3,20,2,17
+44,B,Ismailia,Normal,Male,Home and lifestyle,92.36,5,2019-03-20,19:17:00,eWallet,461.8,23.09,4.9,3,20,2,19
+89,B,Ismailia,Member,Male,Food and beverages,79.91,3,2019-03-20,19:28:00,Credit card,239.73,11.9865,5.0,3,20,2,19
+417,A,Cairo,Member,Female,Food and beverages,91.61,1,2019-03-20,19:44:00,Cash,91.61,4.5805,9.8,3,20,2,19
+581,B,Ismailia,Member,Male,Fashion accessories,33.63,1,2019-03-20,19:55:00,Cash,33.63,1.6815,5.6,3,20,2,19
+901,A,Cairo,Member,Male,Sports and travel,44.02,10,2019-03-20,19:57:00,Credit card,440.2,22.01,9.6,3,20,2,19
+514,A,Cairo,Member,Female,Electronic accessories,28.45,5,2019-03-21,10:17:00,Credit card,142.25,7.1125,9.1,3,21,3,10
+503,A,Cairo,Member,Female,Electronic accessories,26.48,3,2019-03-21,10:40:00,eWallet,79.44,3.972,4.7,3,21,3,10
+420,B,Ismailia,Member,Female,Sports and travel,49.49,4,2019-03-21,15:25:00,eWallet,197.96,9.898,6.6,3,21,3,15
+434,A,Cairo,Normal,Female,Electronic accessories,90.02,8,2019-03-21,16:08:00,Credit card,720.16,36.008,4.5,3,21,3,16
+897,A,Cairo,Member,Male,Home and lifestyle,33.84,9,2019-03-21,16:21:00,eWallet,304.56,15.228,8.8,3,21,3,16
+489,C,Alexandria,Normal,Female,Food and beverages,57.29,6,2019-03-21,17:04:00,eWallet,343.74,17.187,5.9,3,21,3,17
+712,A,Cairo,Normal,Male,Electronic accessories,95.15,1,2019-03-22,14:00:00,Cash,95.15,4.7575,6.0,3,22,4,14
+546,A,Cairo,Normal,Male,Sports and travel,85.91,5,2019-03-22,14:33:00,Credit card,429.55,21.4775,8.6,3,22,4,14
+639,B,Ismailia,Member,Female,Fashion accessories,17.87,4,2019-03-22,14:42:00,eWallet,71.48,3.574,6.5,3,22,4,14
+872,A,Cairo,Normal,Male,Home and lifestyle,18.28,1,2019-03-22,15:05:00,Credit card,18.28,0.914,8.3,3,22,4,15
+550,B,Ismailia,Normal,Male,Sports and travel,37.02,6,2019-03-22,18:33:00,Cash,222.12,11.106,4.5,3,22,4,18
+986,A,Cairo,Normal,Female,Food and beverages,56.56,5,2019-03-22,19:06:00,Credit card,282.8,14.14,4.5,3,22,4,19
+145,A,Cairo,Member,Female,Home and lifestyle,52.59,8,2019-03-22,19:20:00,Credit card,420.72,21.036,8.5,3,22,4,19
+365,B,Ismailia,Member,Female,Sports and travel,88.43,8,2019-03-22,19:35:00,Credit card,707.44,35.372,4.3,3,22,4,19
+466,A,Cairo,Normal,Male,Home and lifestyle,50.93,8,2019-03-22,19:36:00,eWallet,407.44,20.372,9.2,3,22,4,19
+651,A,Cairo,Normal,Male,Sports and travel,62.13,6,2019-03-22,20:19:00,Cash,372.78,18.639,7.4,3,22,4,20
+942,A,Cairo,Normal,Female,Home and lifestyle,25.29,1,2019-03-23,10:13:00,eWallet,25.29,1.2645,6.1,3,23,5,10
+956,A,Cairo,Normal,Male,Food and beverages,52.75,3,2019-03-23,10:16:00,eWallet,158.25,7.9125,9.3,3,23,5,10
+937,A,Cairo,Member,Male,Sports and travel,15.5,10,2019-03-23,10:55:00,eWallet,155.0,7.75,8.0,3,23,5,10
+786,C,Alexandria,Normal,Male,Home and lifestyle,55.61,7,2019-03-23,12:41:00,Cash,389.27,19.4635,8.5,3,23,5,12
+983,A,Cairo,Member,Female,Electronic accessories,73.47,10,2019-03-23,13:14:00,eWallet,734.7,36.735,9.5,3,23,5,13
+467,C,Alexandria,Member,Male,Fashion accessories,67.39,7,2019-03-23,13:23:00,eWallet,471.73,23.5865,6.9,3,23,5,13
+289,C,Alexandria,Normal,Female,Health and beauty,54.92,8,2019-03-23,13:24:00,eWallet,439.36,21.968,7.6,3,23,5,13
+356,C,Alexandria,Member,Female,Home and lifestyle,81.2,7,2019-03-23,15:59:00,Credit card,568.4,28.42,8.1,3,23,5,15
+865,A,Cairo,Normal,Male,Fashion accessories,37.15,4,2019-03-23,18:59:00,eWallet,148.6,7.43,8.3,3,23,5,18
+382,A,Cairo,Normal,Male,Food and beverages,73.88,6,2019-03-23,19:16:00,eWallet,443.28,22.164,4.4,3,23,5,19
+634,B,Ismailia,Member,Female,Fashion accessories,91.54,4,2019-03-23,19:20:00,Credit card,366.16,18.308,4.8,3,23,5,19
+460,A,Cairo,Member,Male,Home and lifestyle,65.94,4,2019-03-24,10:29:00,Cash,263.76,13.188,6.0,3,24,6,10
+601,C,Alexandria,Normal,Female,Food and beverages,33.98,9,2019-03-24,10:43:00,Cash,305.82,15.291,4.2,3,24,6,10
+671,B,Ismailia,Normal,Male,Home and lifestyle,99.92,6,2019-03-24,13:33:00,eWallet,599.52,29.976,7.1,3,24,6,13
+913,C,Alexandria,Member,Male,Sports and travel,14.7,5,2019-03-24,13:48:00,eWallet,73.5,3.675,8.5,3,24,6,13
+938,B,Ismailia,Normal,Female,Health and beauty,82.88,5,2019-03-24,14:08:00,Credit card,414.4,20.72,6.6,3,24,6,14
+290,A,Cairo,Member,Female,Home and lifestyle,70.32,2,2019-03-24,14:22:00,eWallet,140.64,7.032,9.6,3,24,6,14
+610,C,Alexandria,Member,Male,Home and lifestyle,74.86,1,2019-03-24,14:49:00,Cash,74.86,3.743,6.9,3,24,6,14
+14,C,Alexandria,Member,Female,Home and lifestyle,78.38,4,2019-03-24,17:56:00,Cash,313.52,15.676,7.9,3,24,6,17
+763,B,Ismailia,Member,Female,Fashion accessories,58.75,6,2019-03-24,18:14:00,Credit card,352.5,17.625,5.9,3,24,6,18
+527,C,Alexandria,Normal,Male,Electronic accessories,64.95,10,2019-03-24,18:27:00,Cash,649.5,32.475,5.2,3,24,6,18
+560,B,Ismailia,Normal,Female,Sports and travel,24.77,5,2019-03-24,18:27:00,Cash,123.85,6.1925,8.5,3,24,6,18
+323,C,Alexandria,Normal,Male,Fashion accessories,76.52,5,2019-03-25,10:23:00,Cash,382.6,19.13,9.9,3,25,0,10
+298,A,Cairo,Member,Male,Electronic accessories,36.36,4,2019-03-25,13:07:00,Cash,145.44,7.272,7.6,3,25,0,13
+67,A,Cairo,Normal,Female,Food and beverages,55.39,4,2019-03-25,15:19:00,eWallet,221.56,11.078,8.0,3,25,0,15
+328,B,Ismailia,Normal,Male,Electronic accessories,52.89,4,2019-03-25,16:32:00,eWallet,211.56,10.578,6.7,3,25,0,16
+222,B,Ismailia,Normal,Female,Sports and travel,93.31,2,2019-03-25,17:53:00,Cash,186.62,9.331,6.3,3,25,0,17
+625,A,Cairo,Normal,Female,Health and beauty,15.8,3,2019-03-25,18:02:00,Cash,47.4,2.37,9.5,3,25,0,18
+733,C,Alexandria,Normal,Male,Electronic accessories,85.39,7,2019-03-25,18:30:00,eWallet,597.73,29.8865,4.1,3,25,0,18
+34,A,Cairo,Member,Male,Electronic accessories,19.32,7,2019-03-25,18:51:00,Cash,135.24,6.762,6.9,3,25,0,18
+9,C,Alexandria,Normal,Female,Food and beverages,39.43,6,2019-03-25,20:18:00,Credit card,236.58,11.829,9.4,3,25,0,20
+159,C,Alexandria,Normal,Female,Food and beverages,16.31,9,2019-03-26,10:31:00,eWallet,146.79,7.3395,8.4,3,26,1,10
+788,B,Ismailia,Normal,Female,Electronic accessories,45.71,3,2019-03-26,10:34:00,Credit card,137.13,6.8565,7.7,3,26,1,10
+437,B,Ismailia,Member,Female,Sports and travel,39.12,1,2019-03-26,11:02:00,Credit card,39.12,1.956,9.6,3,26,1,11
+600,A,Cairo,Member,Female,Health and beauty,10.69,5,2019-03-26,11:07:00,eWallet,53.45,2.6725,7.6,3,26,1,11
+868,A,Cairo,Normal,Female,Health and beauty,64.27,4,2019-03-26,13:54:00,Cash,257.08,12.854,7.7,3,26,1,13
+947,C,Alexandria,Member,Male,Electronic accessories,84.25,2,2019-03-26,14:13:00,Credit card,168.5,8.425,5.3,3,26,1,14
+931,C,Alexandria,Member,Male,Health and beauty,43.7,2,2019-03-26,18:03:00,Cash,87.4,4.37,4.9,3,26,1,18
+826,A,Cairo,Member,Male,Fashion accessories,41.28,3,2019-03-26,18:37:00,Credit card,123.84,6.192,8.5,3,26,1,18
+72,C,Alexandria,Member,Male,Fashion accessories,48.71,1,2019-03-26,19:20:00,Cash,48.71,2.4355,4.1,3,26,1,19
+477,B,Ismailia,Member,Female,Home and lifestyle,12.29,9,2019-03-26,19:28:00,Credit card,110.61,5.5305,8.0,3,26,1,19
+879,A,Cairo,Normal,Male,Fashion accessories,52.38,1,2019-03-26,19:44:00,Cash,52.38,2.619,5.8,3,26,1,19
+388,A,Cairo,Member,Male,Electronic accessories,72.2,7,2019-03-26,20:14:00,eWallet,505.4,25.27,4.3,3,26,1,20
+615,A,Cairo,Member,Female,Health and beauty,27.73,5,2019-03-26,20:21:00,Credit card,138.65,6.9325,4.2,3,26,1,20
+739,C,Alexandria,Member,Male,Fashion accessories,99.82,9,2019-03-27,10:43:00,Cash,898.38,44.919,6.6,3,27,2,10
+6,A,Cairo,Member,Male,Home and lifestyle,44.34,2,2019-03-27,11:26:00,Cash,88.68,4.434,5.8,3,27,2,11
+164,A,Cairo,Normal,Male,Health and beauty,32.46,8,2019-03-27,13:48:00,Credit card,259.68,12.984,4.9,3,27,2,13
+216,A,Cairo,Normal,Female,Food and beverages,52.34,3,2019-03-27,14:03:00,Cash,157.02,7.851,9.2,3,27,2,14
+863,B,Ismailia,Member,Male,Electronic accessories,55.67,2,2019-03-27,15:08:00,eWallet,111.34,5.567,6.0,3,27,2,15
+94,A,Cairo,Member,Female,Food and beverages,79.54,2,2019-03-27,16:30:00,eWallet,159.08,7.954,6.2,3,27,2,16
+83,B,Ismailia,Normal,Male,Food and beverages,32.32,3,2019-03-27,19:11:00,Credit card,96.96,4.848,4.3,3,27,2,19
+401,B,Ismailia,Normal,Male,Sports and travel,93.39,6,2019-03-27,19:18:00,eWallet,560.34,28.017,10.0,3,27,2,19
+262,B,Ismailia,Member,Female,Food and beverages,29.15,3,2019-03-27,20:29:00,Credit card,87.45,4.3725,7.3,3,27,2,20
+657,A,Cairo,Member,Male,Food and beverages,49.38,7,2019-03-27,20:35:00,Credit card,345.66,17.283,7.3,3,27,2,20
+656,C,Alexandria,Normal,Female,Electronic accessories,47.65,3,2019-03-28,12:58:00,Credit card,142.95,7.1475,9.5,3,28,3,12
+578,B,Ismailia,Normal,Female,Fashion accessories,30.37,3,2019-03-28,13:41:00,eWallet,91.11,4.5555,5.1,3,28,3,13
+197,C,Alexandria,Member,Female,Food and beverages,38.6,3,2019-03-28,13:57:00,eWallet,115.8,5.79,7.5,3,28,3,13
+398,A,Cairo,Normal,Female,Food and beverages,71.68,3,2019-03-28,15:30:00,Credit card,215.04,10.752,9.2,3,28,3,15
+463,A,Cairo,Member,Male,Food and beverages,51.34,5,2019-03-28,15:31:00,Credit card,256.7,12.835,9.1,3,28,3,15
+944,A,Cairo,Member,Female,Fashion accessories,71.46,7,2019-03-28,16:06:00,eWallet,500.22,25.011,4.5,3,28,3,16
+127,A,Cairo,Normal,Male,Food and beverages,58.26,6,2019-03-28,16:44:00,Cash,349.56,17.478,9.9,3,28,3,16
+520,A,Cairo,Normal,Male,Electronic accessories,26.02,7,2019-03-28,17:38:00,Cash,182.14,9.107,5.1,3,28,3,17
+534,C,Alexandria,Member,Female,Food and beverages,49.79,4,2019-03-28,19:16:00,Credit card,199.16,9.958,6.4,3,28,3,19
+288,A,Cairo,Member,Male,Health and beauty,10.08,7,2019-03-28,20:14:00,Cash,70.56,3.528,4.2,3,28,3,20
+832,B,Ismailia,Normal,Male,Health and beauty,87.87,10,2019-03-29,10:25:00,eWallet,878.7,43.935,5.1,3,29,4,10
+95,B,Ismailia,Normal,Male,Health and beauty,71.77,7,2019-03-29,14:06:00,Cash,502.39,25.1195,8.9,3,29,4,14
+239,B,Ismailia,Member,Male,Health and beauty,61.29,5,2019-03-29,14:28:00,Cash,306.45,15.3225,7.0,3,29,4,14
+770,C,Alexandria,Normal,Male,Electronic accessories,28.84,4,2019-03-29,14:44:00,Cash,115.36,5.768,6.4,3,29,4,14
+404,B,Ismailia,Member,Male,Health and beauty,54.86,5,2019-03-29,16:48:00,eWallet,274.3,13.715,9.8,3,29,4,16
+133,A,Cairo,Member,Female,Home and lifestyle,72.42,3,2019-03-29,16:54:00,eWallet,217.26,10.863,8.2,3,29,4,16
+198,C,Alexandria,Member,Male,Electronic accessories,82.34,10,2019-03-29,19:12:00,eWallet,823.4,41.17,4.3,3,29,4,19
+902,A,Cairo,Normal,Female,Health and beauty,71.38,10,2019-03-29,19:21:00,Cash,713.8,35.69,5.7,3,29,4,19
+322,A,Cairo,Normal,Female,Sports and travel,89.48,5,2019-03-30,10:18:00,Cash,447.4,22.37,7.4,3,30,5,10
+241,A,Cairo,Member,Female,Home and lifestyle,34.42,6,2019-03-30,12:45:00,eWallet,206.52,10.326,7.5,3,30,5,12
+12,C,Alexandria,Member,Female,Fashion accessories,10.18,8,2019-03-30,12:51:00,Credit card,81.44,4.072,9.5,3,30,5,12
+228,A,Cairo,Normal,Female,Sports and travel,40.23,7,2019-03-30,13:22:00,Cash,281.61,14.0805,9.6,3,30,5,13
+796,B,Ismailia,Member,Male,Health and beauty,97.22,9,2019-03-30,14:43:00,eWallet,874.98,43.749,6.0,3,30,5,14
+843,C,Alexandria,Normal,Male,Health and beauty,70.21,6,2019-03-30,14:58:00,Cash,421.26,21.063,7.4,3,30,5,14
+675,B,Ismailia,Member,Male,Food and beverages,93.4,2,2019-03-30,16:34:00,Cash,186.8,9.34,5.5,3,30,5,16
+714,A,Cairo,Member,Female,Electronic accessories,64.44,5,2019-03-30,17:04:00,Cash,322.2,16.11,6.6,3,30,5,17
+780,B,Ismailia,Member,Male,Health and beauty,72.57,8,2019-03-30,17:58:00,Cash,580.56,29.028,4.6,3,30,5,17
+27,C,Alexandria,Member,Female,Food and beverages,72.52,8,2019-03-30,19:26:00,Credit card,580.16,29.008,4.0,3,30,5,19
+325,C,Alexandria,Member,Male,Electronic accessories,96.82,3,2019-03-30,20:37:00,Cash,290.46,14.523,6.7,3,30,5,20
